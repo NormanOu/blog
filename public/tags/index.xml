@@ -2,31 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Norman 的数字花园</title>
-    <link>https://norman-blog.vercel.app/tags/</link>
+    <link>https://normanou.github.io/blog/tags/</link>
     <description>Recent content in Tags on Norman 的数字花园</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Mar 2026 22:50:00 +0800</lastBuildDate>
-    <atom:link href="https://norman-blog.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Mar 2026 23:00:00 +0800</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>健康</title>
+      <link>https://normanou.github.io/blog/tags/%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/tags/%E5%81%A5%E5%BA%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>投资</title>
+      <link>https://normanou.github.io/blog/tags/%E6%8A%95%E8%B5%84/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/tags/%E6%8A%95%E8%B5%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>睡眠</title>
+      <link>https://normanou.github.io/blog/tags/%E7%9D%A1%E7%9C%A0/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/tags/%E7%9D%A1%E7%9C%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>科普</title>
+      <link>https://normanou.github.io/blog/tags/%E7%A7%91%E6%99%AE/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/tags/%E7%A7%91%E6%99%AE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>经济</title>
+      <link>https://normanou.github.io/blog/tags/%E7%BB%8F%E6%B5%8E/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/tags/%E7%BB%8F%E6%B5%8E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>黄金</title>
+      <link>https://normanou.github.io/blog/tags/%E9%BB%84%E9%87%91/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/tags/%E9%BB%84%E9%87%91/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
-      <link>https://norman-blog.vercel.app/tags/ai/</link>
+      <link>https://normanou.github.io/blog/tags/ai/</link>
       <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
-      <guid>https://norman-blog.vercel.app/tags/ai/</guid>
+      <guid>https://normanou.github.io/blog/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>影视</title>
-      <link>https://norman-blog.vercel.app/tags/%E5%BD%B1%E8%A7%86/</link>
+      <link>https://normanou.github.io/blog/tags/%E5%BD%B1%E8%A7%86/</link>
       <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
-      <guid>https://norman-blog.vercel.app/tags/%E5%BD%B1%E8%A7%86/</guid>
+      <guid>https://normanou.github.io/blog/tags/%E5%BD%B1%E8%A7%86/</guid>
       <description></description>
     </item>
     <item>
       <title>思考</title>
-      <link>https://norman-blog.vercel.app/tags/%E6%80%9D%E8%80%83/</link>
+      <link>https://normanou.github.io/blog/tags/%E6%80%9D%E8%80%83/</link>
       <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
-      <guid>https://norman-blog.vercel.app/tags/%E6%80%9D%E8%80%83/</guid>
+      <guid>https://normanou.github.io/blog/tags/%E6%80%9D%E8%80%83/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI与科技 on Norman 的数字花园</title>
-    <link>https://norman-blog.vercel.app/categories/ai%E4%B8%8E%E7%A7%91%E6%8A%80/</link>
+    <link>https://normanou.github.io/blog/categories/ai%E4%B8%8E%E7%A7%91%E6%8A%80/</link>
     <description>Recent content in AI与科技 on Norman 的数字花园</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 22 Mar 2026 22:50:00 +0800</lastBuildDate>
-    <atom:link href="https://norman-blog.vercel.app/categories/ai%E4%B8%8E%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://normanou.github.io/blog/categories/ai%E4%B8%8E%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI演员遭抵制，我们到底在害怕什么？</title>
-      <link>https://norman-blog.vercel.app/ai/ai-actor-controversy/</link>
+      <link>https://normanou.github.io/blog/ai/ai-actor-controversy/</link>
       <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
-      <guid>https://norman-blog.vercel.app/ai/ai-actor-controversy/</guid>
+      <guid>https://normanou.github.io/blog/ai/ai-actor-controversy/</guid>
       <description>&lt;p&gt;最近，&amp;ldquo;AI演员&amp;quot;的话题在抖音上引发热议，热度高达900多万。很多人在问：AI到底能不能取代演员？&lt;/p&gt;
 &lt;h2 id=&#34;一个程序员视角的思考&#34;&gt;一个程序员视角的思考&lt;/h2&gt;
 &lt;p&gt;作为一个程序员，我对AI的态度一直是：&lt;strong&gt;拥抱变化，但保持警惕。&lt;/strong&gt;&lt;/p&gt;
