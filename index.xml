@@ -2,17 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Norman 的数字花园</title>
-    <link>https://norman-blog.vercel.app/</link>
+    <link>https://normanou.github.io/blog/</link>
     <description>Recent content on Norman 的数字花园</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Mar 2026 22:50:00 +0800</lastBuildDate>
-    <atom:link href="https://norman-blog.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Mar 2026 23:00:00 +0800</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>22点睡 vs 23点睡，这一个小时差在哪？</title>
+      <link>https://normanou.github.io/blog/life/sleep-time-difference/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/life/sleep-time-difference/</guid>
+      <description>&lt;p&gt;知乎上一个56万热度的问题：&lt;strong&gt;对于习惯熬夜的年轻人，22点和23点睡觉差别不大，是这样吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;作为一个经常熬夜的程序员，我决定认真研究一下这个问题。&lt;/p&gt;
+&lt;h2 id=&#34;先说结论&#34;&gt;先说结论&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;差别很大，但不是因为&amp;quot;玄学&amp;quot;，而是因为生理节律。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;科学解释&#34;&gt;科学解释&lt;/h2&gt;
+&lt;h3 id=&#34;1-生物钟与激素分泌&#34;&gt;1. 生物钟与激素分泌&lt;/h3&gt;
+&lt;p&gt;人体有两个关键的睡眠相关激素：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;褪黑素（Melatonin）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开始分泌时间：晚上9-10点&lt;/li&gt;
+&lt;li&gt;分泌高峰：凌晨2-4点&lt;/li&gt;
+&lt;li&gt;作用：让你困倦，进入睡眠&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;皮质醇（Cortisol）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开始上升时间：早上6点左右&lt;/li&gt;
+&lt;li&gt;作用：让你清醒，准备起床&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;22点睡觉，正好赶上褪黑素刚开始分泌，睡眠质量最好。
+23点睡觉，褪黑素已经分泌了一段时间，你错过了最佳入睡窗口。&lt;/p&gt;
+&lt;h3 id=&#34;2-睡眠周期&#34;&gt;2. 睡眠周期&lt;/h3&gt;
+&lt;p&gt;一个完整睡眠周期约90分钟，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;浅睡眠&lt;/li&gt;
+&lt;li&gt;深睡眠&lt;/li&gt;
+&lt;li&gt;REM（快速眼动）睡眠&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;22点入睡，到早上7点起床，可以完成约6个完整周期。
+23点入睡，只有约5.3个周期——最后一个周期会被打断。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;被叫醒的感觉差异，你懂的。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;实际差别有多大&#34;&gt;实际差别有多大？&lt;/h2&gt;
+&lt;p&gt;根据研究数据：&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;22点睡&lt;/th&gt;
+          &lt;th&gt;23点睡&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;深睡眠时长&lt;/td&gt;
+          &lt;td&gt;更多&lt;/td&gt;
+          &lt;td&gt;减少10-15%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;第二天精力&lt;/td&gt;
+          &lt;td&gt;充沛&lt;/td&gt;
+          &lt;td&gt;略微疲劳&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;免疫力&lt;/td&gt;
+          &lt;td&gt;更好&lt;/td&gt;
+          &lt;td&gt;略低&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;皮肤状态&lt;/td&gt;
+          &lt;td&gt;更好&lt;/td&gt;
+          &lt;td&gt;略差&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;看起来差别不大？&lt;strong&gt;但这是每天累积的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一年下来：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;22点睡的人：365天 × 优质睡眠&lt;/li&gt;
+&lt;li&gt;23点睡的人：365天 × 次优睡眠&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;10年呢？这就是为什么有些人看起来比同龄人年轻10岁。&lt;/p&gt;
+&lt;h2 id=&#34;我的建议&#34;&gt;我的建议&lt;/h2&gt;
+&lt;p&gt;如果你现在习惯23点甚至更晚睡：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;不要一下子改到22点&lt;/strong&gt; - 身体会反抗&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;每周提前15分钟&lt;/strong&gt; - 渐进式调整&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;先固定起床时间&lt;/strong&gt; - 倒逼入睡时间&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;睡前1小时远离屏幕&lt;/strong&gt; - 蓝光会抑制褪黑素&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;写在最后&#34;&gt;写在最后&lt;/h2&gt;
+&lt;p&gt;程序员圈子流行一句话：&amp;ldquo;凌晨4点的代码最美。&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;但我想说：&lt;strong&gt;凌晨4点的代码，不值得用健康去换。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;22点还是23点，差的不是一个小时，是十年后的你。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>金价断崖式下跌，现在该抄底还是观望？</title>
+      <link>https://normanou.github.io/blog/ai/gold-price-crash/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/ai/gold-price-crash/</guid>
+      <description>&lt;p&gt;今天，&amp;ldquo;金价断崖式下跌&amp;quot;冲上微博热搜，热度超过247万。很多人在问：&lt;strong&gt;现在是抄底的好时机吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;先看数据&#34;&gt;先看数据&lt;/h2&gt;
+&lt;p&gt;国际金价连续八个交易日下跌，创下近期新低。这对于习惯了&amp;quot;黄金永远涨&amp;quot;的投资者来说，确实是个震撼。&lt;/p&gt;
+&lt;h2 id=&#34;为什么下跌&#34;&gt;为什么下跌？&lt;/h2&gt;
+&lt;p&gt;我分析了几个主要原因：&lt;/p&gt;
+&lt;h3 id=&#34;1-美元走强&#34;&gt;1. 美元走强&lt;/h3&gt;
+&lt;p&gt;美联储鹰派信号强烈，市场预期4月可能加息。美元指数走强，以美元计价的黄金自然承压。&lt;/p&gt;
+&lt;h3 id=&#34;2-地缘冲突的反向效应&#34;&gt;2. 地缘冲突的&amp;quot;反向效应&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;传统观点认为&amp;quot;乱世买黄金&amp;quot;，但这次中东冲突反而导致部分资金流向美元避险。为什么？因为不确定性太高，流动性更重要的。&lt;/p&gt;
+&lt;h3 id=&#34;3-技术性抛售&#34;&gt;3. 技术性抛售&lt;/h3&gt;
+&lt;p&gt;金价连续下跌触发止损盘，形成负反馈循环。&lt;/p&gt;
+&lt;h2 id=&#34;该抄底吗&#34;&gt;该抄底吗？&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;我的建议：不要着急。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;原因很简单：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;下跌趋势还在延续&lt;/li&gt;
+&lt;li&gt;美联储政策不确定&lt;/li&gt;
+&lt;li&gt;技术上还没有见底信号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;更稳妥的策略：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;分批建仓，不要一次性梭哈&lt;/li&gt;
+&lt;li&gt;等待企稳信号（比如连续3天不创新低）&lt;/li&gt;
+&lt;li&gt;控制仓位，黄金配置不超过总资产的10%&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;长期观点&#34;&gt;长期观点&lt;/h2&gt;
+&lt;p&gt;黄金作为避险资产，长期价值依然存在。但短期波动是常态。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;记住：投资不是赌博，是概率游戏。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;本文不构成投资建议，投资有风险，入市需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI演员遭抵制，我们到底在害怕什么？</title>
-      <link>https://norman-blog.vercel.app/ai/ai-actor-controversy/</link>
+      <link>https://normanou.github.io/blog/ai/ai-actor-controversy/</link>
       <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
-      <guid>https://norman-blog.vercel.app/ai/ai-actor-controversy/</guid>
+      <guid>https://normanou.github.io/blog/ai/ai-actor-controversy/</guid>
       <description>&lt;p&gt;最近，&amp;ldquo;AI演员&amp;quot;的话题在抖音上引发热议，热度高达900多万。很多人在问：AI到底能不能取代演员？&lt;/p&gt;
 &lt;h2 id=&#34;一个程序员视角的思考&#34;&gt;一个程序员视角的思考&lt;/h2&gt;
 &lt;p&gt;作为一个程序员，我对AI的态度一直是：&lt;strong&gt;拥抱变化，但保持警惕。&lt;/strong&gt;&lt;/p&gt;
@@ -50,9 +174,9 @@
     </item>
     <item>
       <title>关于我</title>
-      <link>https://norman-blog.vercel.app/about/</link>
+      <link>https://normanou.github.io/blog/about/</link>
       <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
-      <guid>https://norman-blog.vercel.app/about/</guid>
+      <guid>https://normanou.github.io/blog/about/</guid>
       <description>&lt;h2 id=&#34;你好我是-norman-&#34;&gt;你好，我是 Norman 👋&lt;/h2&gt;
 &lt;p&gt;一个对世界充满好奇的程序员。&lt;/p&gt;
 &lt;h3 id=&#34;我是谁&#34;&gt;我是谁&lt;/h3&gt;
