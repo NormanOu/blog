@@ -2,12 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://norman-blog.vercel.app/tags/ai/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
+  </url><url>
     <loc>https://norman-blog.vercel.app/ai/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
+  </url><url>
+    <loc>https://norman-blog.vercel.app/categories/ai%E4%B8%8E%E7%A7%91%E6%8A%80/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
+  </url><url>
+    <loc>https://norman-blog.vercel.app/ai/ai-actor-controversy/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
   </url><url>
     <loc>https://norman-blog.vercel.app/categories/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
   </url><url>
     <loc>https://norman-blog.vercel.app/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
   </url><url>
     <loc>https://norman-blog.vercel.app/tags/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
+  </url><url>
+    <loc>https://norman-blog.vercel.app/about/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
+  </url><url>
+    <loc>https://norman-blog.vercel.app/tags/%E5%BD%B1%E8%A7%86/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
+  </url><url>
+    <loc>https://norman-blog.vercel.app/tags/%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2026-03-22T22:50:00+08:00</lastmod>
+  </url><url>
+    <loc>https://norman-blog.vercel.app/life/</loc>
   </url>
 </urlset>

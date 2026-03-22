@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Norman 的数字花园</title>
-    <link>https://norman-blog.vercel.app/</link>
-    <description>Recent content on Norman 的数字花园</description>
+    <title>思考 on Norman 的数字花园</title>
+    <link>https://norman-blog.vercel.app/tags/%E6%80%9D%E8%80%83/</link>
+    <description>Recent content in 思考 on Norman 的数字花园</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 22 Mar 2026 22:50:00 +0800</lastBuildDate>
-    <atom:link href="https://norman-blog.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://norman-blog.vercel.app/tags/%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI演员遭抵制，我们到底在害怕什么？</title>
       <link>https://norman-blog.vercel.app/ai/ai-actor-controversy/</link>
@@ -47,36 +47,6 @@
 &lt;p&gt;&lt;strong&gt;关键问题是：我们想用AI讲什么样的故事？&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;你怎么看AI演员？欢迎在评论区讨论。&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>关于我</title>
-      <link>https://norman-blog.vercel.app/about/</link>
-      <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
-      <guid>https://norman-blog.vercel.app/about/</guid>
-      <description>&lt;h2 id=&#34;你好我是-norman-&#34;&gt;你好，我是 Norman 👋&lt;/h2&gt;
-&lt;p&gt;一个对世界充满好奇的程序员。&lt;/p&gt;
-&lt;h3 id=&#34;我是谁&#34;&gt;我是谁&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;🧑‍💻 &lt;strong&gt;程序员&lt;/strong&gt;：写过代码，创过业，现在专注于做有意思的事情&lt;/li&gt;
-&lt;li&gt;🧠 &lt;strong&gt;心理咨询学习者&lt;/strong&gt;：正在系统学习心理咨询，探索人类内心的奥秘&lt;/li&gt;
-&lt;li&gt;🌍 &lt;strong&gt;终身探索者&lt;/strong&gt;：对AI、科技、商业、国际政治都有浓厚兴趣&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;这个博客&#34;&gt;这个博客&lt;/h3&gt;
-&lt;p&gt;这是一个&lt;strong&gt;数字花园&lt;/strong&gt;，记录我的思考、学习和观察。&lt;/p&gt;
-&lt;p&gt;内容分类：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;AI与科技&lt;/strong&gt;：对AI发展的观察和思考&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;心理与成长&lt;/strong&gt;：心理咨询学习笔记和自我成长感悟&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;商业观察&lt;/strong&gt;：对商业模式和行业趋势的分析&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;生活随想&lt;/strong&gt;：日常生活中的碎碎念&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;联系我&#34;&gt;联系我&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/norman&#34;&gt;norman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Email: &lt;a href=&#34;mailto:norman@example.com&#34;&gt;norman@example.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;这个博客由 &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; 强力驱动&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
