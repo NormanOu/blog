@@ -1,0 +1,51 @@
+baseURL: https://norman-blog.vercel.app/
+languageCode: zh-cn
+title: "Norman 的数字花园"
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "你好，我是 Norman 👋"
+    Content: >
+      程序员 | 心理咨询学习者 | 终身探索者
+      
+      这里记录我对 AI、科技、心理、商业的思考与观察。
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/norman"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+menu:
+  main:
+    - identifier: ai
+      name: AI 与科技
+      url: /ai/
+      weight: 10
+    - identifier: psych
+      name: 心理与成长
+      url: /psychology/
+      weight: 20
+    - identifier: business
+      name: 商业观察
+      url: /business/
+      weight: 30
+    - identifier: life
+      name: 生活随想
+      url: /life/
+      weight: 40
+    - identifier: archives
+      name: 归档
+      url: /archives/
+      weight: 50
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
