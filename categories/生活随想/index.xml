@@ -1,24 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>生活随想 on Norman 的数字花园</title>
-    <link>https://normanou.github.io/blog/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/</link>
-    <description>Recent content in 生活随想 on Norman 的数字花园</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Mar 2026 23:00:00 +0800</lastBuildDate>
-    <atom:link href="https://normanou.github.io/blog/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>22点睡 vs 23点睡，这一个小时差在哪？</title>
-      <link>https://normanou.github.io/blog/life/sleep-time-difference/</link>
-      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/life/sleep-time-difference/</guid>
-      <description>&lt;p&gt;知乎上一个56万热度的问题：&lt;strong&gt;对于习惯熬夜的年轻人，22点和23点睡觉差别不大，是这样吗？&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>生活随想 on Norman 的数字花园</title><link>https://normanou.github.io/blog/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/</link><description>Recent content in 生活随想 on Norman 的数字花园</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 22 Mar 2026 23:00:00 +0800</lastBuildDate><atom:link href="https://normanou.github.io/blog/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>22点睡 vs 23点睡，这一个小时差在哪？</title><link>https://normanou.github.io/blog/life/sleep-time-difference/</link><pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate><guid>https://normanou.github.io/blog/life/sleep-time-difference/</guid><description>&lt;p&gt;知乎上一个56万热度的问题：&lt;strong&gt;对于习惯熬夜的年轻人，22点和23点睡觉差别不大，是这样吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;作为一个经常熬夜的程序员，我决定认真研究一下这个问题。&lt;/p&gt;
-&lt;h2 id=&#34;先说结论&#34;&gt;先说结论&lt;/h2&gt;
+&lt;h2 id="先说结论"&gt;先说结论&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;差别很大，但不是因为&amp;quot;玄学&amp;quot;，而是因为生理节律。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;科学解释&#34;&gt;科学解释&lt;/h2&gt;
-&lt;h3 id=&#34;1-生物钟与激素分泌&#34;&gt;1. 生物钟与激素分泌&lt;/h3&gt;
+&lt;h2 id="科学解释"&gt;科学解释&lt;/h2&gt;
+&lt;h3 id="1-生物钟与激素分泌"&gt;1. 生物钟与激素分泌&lt;/h3&gt;
 &lt;p&gt;人体有两个关键的睡眠相关激素：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;褪黑素（Melatonin）&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -33,7 +18,7 @@
 &lt;/ul&gt;
 &lt;p&gt;22点睡觉，正好赶上褪黑素刚开始分泌，睡眠质量最好。
 23点睡觉，褪黑素已经分泌了一段时间，你错过了最佳入睡窗口。&lt;/p&gt;
-&lt;h3 id=&#34;2-睡眠周期&#34;&gt;2. 睡眠周期&lt;/h3&gt;
+&lt;h3 id="2-睡眠周期"&gt;2. 睡眠周期&lt;/h3&gt;
 &lt;p&gt;一个完整睡眠周期约90分钟，包括：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;浅睡眠&lt;/li&gt;
@@ -43,38 +28,38 @@
 &lt;p&gt;22点入睡，到早上7点起床，可以完成约6个完整周期。
 23点入睡，只有约5.3个周期——最后一个周期会被打断。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;被叫醒的感觉差异，你懂的。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;实际差别有多大&#34;&gt;实际差别有多大？&lt;/h2&gt;
+&lt;h2 id="实际差别有多大"&gt;实际差别有多大？&lt;/h2&gt;
 &lt;p&gt;根据研究数据：&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;指标&lt;/th&gt;
-          &lt;th&gt;22点睡&lt;/th&gt;
-          &lt;th&gt;23点睡&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;深睡眠时长&lt;/td&gt;
-          &lt;td&gt;更多&lt;/td&gt;
-          &lt;td&gt;减少10-15%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;第二天精力&lt;/td&gt;
-          &lt;td&gt;充沛&lt;/td&gt;
-          &lt;td&gt;略微疲劳&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;免疫力&lt;/td&gt;
-          &lt;td&gt;更好&lt;/td&gt;
-          &lt;td&gt;略低&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;皮肤状态&lt;/td&gt;
-          &lt;td&gt;更好&lt;/td&gt;
-          &lt;td&gt;略差&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;指标&lt;/th&gt;
+&lt;th&gt;22点睡&lt;/th&gt;
+&lt;th&gt;23点睡&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;深睡眠时长&lt;/td&gt;
+&lt;td&gt;更多&lt;/td&gt;
+&lt;td&gt;减少10-15%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;第二天精力&lt;/td&gt;
+&lt;td&gt;充沛&lt;/td&gt;
+&lt;td&gt;略微疲劳&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;免疫力&lt;/td&gt;
+&lt;td&gt;更好&lt;/td&gt;
+&lt;td&gt;略低&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;皮肤状态&lt;/td&gt;
+&lt;td&gt;更好&lt;/td&gt;
+&lt;td&gt;略差&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;看起来差别不大？&lt;strong&gt;但这是每天累积的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一年下来：&lt;/p&gt;
@@ -83,7 +68,7 @@
 &lt;li&gt;23点睡的人：365天 × 次优睡眠&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;10年呢？这就是为什么有些人看起来比同龄人年轻10岁。&lt;/p&gt;
-&lt;h2 id=&#34;我的建议&#34;&gt;我的建议&lt;/h2&gt;
+&lt;h2 id="我的建议"&gt;我的建议&lt;/h2&gt;
 &lt;p&gt;如果你现在习惯23点甚至更晚睡：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;不要一下子改到22点&lt;/strong&gt; - 身体会反抗&lt;/li&gt;
@@ -91,10 +76,7 @@
 &lt;li&gt;&lt;strong&gt;先固定起床时间&lt;/strong&gt; - 倒逼入睡时间&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;睡前1小时远离屏幕&lt;/strong&gt; - 蓝光会抑制褪黑素&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;写在最后&#34;&gt;写在最后&lt;/h2&gt;
+&lt;h2 id="写在最后"&gt;写在最后&lt;/h2&gt;
 &lt;p&gt;程序员圈子流行一句话：&amp;ldquo;凌晨4点的代码最美。&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;但我想说：&lt;strong&gt;凌晨4点的代码，不值得用健康去换。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;22点还是23点，差的不是一个小时，是十年后的你。&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;22点还是23点，差的不是一个小时，是十年后的你。&lt;/p&gt;</description></item></channel></rss>

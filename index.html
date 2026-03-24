@@ -1,309 +1,135 @@
-<!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="auto">
-
-<head>
-	<meta name="generator" content="Hugo 0.158.0"><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
-<title>Norman 的数字花园</title>
-
-<meta name="description" content="">
-<meta name="author" content="">
-<link rel="canonical" href="https://normanou.github.io/blog/">
-<link crossorigin="anonymous" href="/blog/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://normanou.github.io/blog/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://normanou.github.io/blog/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://normanou.github.io/blog/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://normanou.github.io/blog/apple-touch-icon.png">
-<link rel="mask-icon" href="https://normanou.github.io/blog/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://normanou.github.io/blog/index.xml" title="rss">
-<link rel="alternate" type="application/json" href="https://normanou.github.io/blog/index.json" title="json">
-<link rel="alternate" hreflang="en" href="https://normanou.github.io/blog/">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
-
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-                color-scheme: dark;
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .toc {
-                background: var(--entry);
-            }
-        }
-
-        @media (prefers-color-scheme: light) {
-            .list::-webkit-scrollbar-thumb {
-                border-color: var(--code-bg);
-            }
-        }
-
-    </style>
-</noscript>
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else if (localStorage.getItem("pref-theme") === "light") {
-       document.querySelector("html").dataset.theme = 'light';
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else {
-        document.querySelector("html").dataset.theme = 'light';
-    }
-
-</script><meta property="og:url" content="https://normanou.github.io/blog/">
-  <meta property="og:site_name" content="Norman 的数字花园">
-  <meta property="og:title" content="Norman 的数字花园">
-  <meta property="og:locale" content="zh_cn">
-  <meta property="og:type" content="website">
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Norman 的数字花园">
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Norman 的数字花园",
-  "url": "https://normanou.github.io/blog/",
-  "description": "",
-  "logo": "https://normanou.github.io/blog/favicon.ico",
-  "sameAs": [
-      "https://github.com/norman"
-  ]
-}
-</script>
-</head>
-<body class="list" id="top">
-    <header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="https://normanou.github.io/blog/" accesskey="h" title="Norman 的数字花园 (Alt + H)">Norman 的数字花园</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </div>
-        </div>
-        <ul id="menu">
-            <li>
-                <a href="https://normanou.github.io/blog/ai/" title="AI 与科技">
-                    <span>AI 与科技</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://normanou.github.io/blog/psychology/" title="心理与成长">
-                    <span>心理与成长</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://normanou.github.io/blog/business/" title="商业观察">
-                    <span>商业观察</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://normanou.github.io/blog/life/" title="生活随想">
-                    <span>生活随想</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://normanou.github.io/blog/archives/" title="归档">
-                    <span>归档</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
-</header>
-<main class="main"> 
-<article class="first-entry home-info">
-    <header class="entry-header">
-        <h1>你好，我是 Norman 👋</h1>
-    </header>
-    <div class="entry-content">
-        程序员 | 心理咨询学习者 | 终身探索者
-这里记录我对 AI、科技、心理、商业的思考与观察。
-    </div>
-    <footer class="entry-footer">
-        <div class="social-icons" >
-    <a href="https://github.com/norman" target="_blank" rel="noopener noreferrer me"
-        title="Github">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-    stroke-linecap="round" stroke-linejoin="round">
-    <path
-        d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
-    </path>
-</svg>
-    </a>
-</div>
-
-    </footer>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">金价断崖式下跌，现在该抄底还是观望？
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>今天，“金价断崖式下跌&#34;冲上微博热搜，热度超过247万。很多人在问：现在是抄底的好时机吗？
-先看数据 国际金价连续八个交易日下跌，创下近期新低。这对于习惯了&#34;黄金永远涨&#34;的投资者来说，确实是个震撼。
-为什么下跌？ 我分析了几个主要原因：
-1. 美元走强 美联储鹰派信号强烈，市场预期4月可能加息。美元指数走强，以美元计价的黄金自然承压。
-2. 地缘冲突的&#34;反向效应” 传统观点认为&#34;乱世买黄金&#34;，但这次中东冲突反而导致部分资金流向美元避险。为什么？因为不确定性太高，流动性更重要的。
-3. 技术性抛售 金价连续下跌触发止损盘，形成负反馈循环。
-该抄底吗？ 我的建议：不要着急。
-原因很简单：
-下跌趋势还在延续 美联储政策不确定 技术上还没有见底信号 更稳妥的策略：
-分批建仓，不要一次性梭哈 等待企稳信号（比如连续3天不创新低） 控制仓位，黄金配置不超过总资产的10% 长期观点 黄金作为避险资产，长期价值依然存在。但短期波动是常态。
-记住：投资不是赌博，是概率游戏。
-本文不构成投资建议，投资有风险，入市需谨慎。
-</p>
-  </div>
-  <footer class="entry-footer"><span title='2026-03-22 23:00:00 +0800 CST'>March 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span></footer>
-  <a class="entry-link" aria-label="post link to 金价断崖式下跌，现在该抄底还是观望？" href="https://normanou.github.io/blog/ai/gold-price-crash/"></a>
-</article>
-
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">AI演员遭抵制，我们到底在害怕什么？
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>最近，“AI演员&#34;的话题在抖音上引发热议，热度高达900多万。很多人在问：AI到底能不能取代演员？
-一个程序员视角的思考 作为一个程序员，我对AI的态度一直是：拥抱变化，但保持警惕。
-AI能演戏吗？技术上已经可以了。深度伪造（Deepfake）技术已经能把一个人的脸&#34;贴&#34;到另一个人的身上，甚至可以生成完全虚拟的数字人。从技术角度看，AI演员不是&#34;能不能&#34;的问题，而是&#34;什么时候&#34;的问题。
-但为什么这么多人抵制？
-我们害怕的不是技术，是&#34;虚假” 人类对&#34;真实&#34;有近乎执念的追求。我们看电影，表面上是在看故事，实际上是在感受另一个真实的人的情感表达。
-一个演员哭了，我们被打动，是因为我们知道：
-这是一个真实的人 他/她经历过真实的情感 这份情感通过表演传递给我们 AI可以模拟眼泪，但无法模拟&#34;为什么会流泪&#34;。
-AI演员的真正威胁 我认为AI演员最大的威胁不是&#34;取代演员&#34;，而是让整个行业变得更加工业化、流水线化。
-当AI可以批量生成&#34;及格线&#34;以上的表演时：
-底层演员的生存空间会被挤压 中层演员需要更加努力证明自己的&#34;不可替代性&#34; 只有顶层演员的&#34;灵魂表演&#34;才能站稳脚跟 这和程序员行业很像——AI可以写代码，但很难写出&#34;优雅的架构&#34;。
-我的判断 AI演员不会完全取代人类演员，但会：
-改变行业标准：观众对表演的要求会更高 重塑行业分工：更多演员转型为&#34;表演设计师&#34;或&#34;情感顾问&#34; 创造新的可能性：比如让已故演员&#34;重返银幕&#34; 技术从来不是中立的，它放大的是使用者的意图。
-关键问题是：我们想用AI讲什么样的故事？
-你怎么看AI演员？欢迎在评论区讨论。
-</p>
-  </div>
-  <footer class="entry-footer"><span title='2026-03-22 22:50:00 +0800 CST'>March 22, 2026</span>&nbsp;·&nbsp;<span>1 min</span></footer>
-  <a class="entry-link" aria-label="post link to AI演员遭抵制，我们到底在害怕什么？" href="https://normanou.github.io/blog/ai/ai-actor-controversy/"></a>
-</article>
-    </main>
-    
-<footer class="footer">
-        <span>&copy; 2026 <a href="https://normanou.github.io/blog/">Norman 的数字花园</a></span> · 
-
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
-
-<script>
-    let menu = document.getElementById('menu');
-    if (menu) {
-        
-        const scrollPosition = localStorage.getItem("menu-scroll-position");
-        if (scrollPosition) {
-            menu.scrollLeft = parseInt(scrollPosition, 10);
-        }
-        
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
-
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
-
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
-        if (html.dataset.theme === "dark") {
-            html.dataset.theme = 'light';
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            html.dataset.theme = 'dark';
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
-</body>
-
-</html>
+<!doctype html><html lang=en dir=auto data-theme=auto><head><meta name=generator content="Hugo 0.158.0"><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>Norman 的数字花园</title><meta name=description content><meta name=author content><link rel=canonical href=https://normanou.github.io/blog/><link crossorigin=anonymous href=/blog/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css integrity="sha256-2jIR5e+Ge/K3X9WmUVz+1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as=style><link rel=icon href=https://normanou.github.io/blog/favicon.ico><link rel=icon type=image/png sizes=16x16 href=https://normanou.github.io/blog/favicon-16x16.png><link rel=icon type=image/png sizes=32x32 href=https://normanou.github.io/blog/favicon-32x32.png><link rel=apple-touch-icon href=https://normanou.github.io/blog/apple-touch-icon.png><link rel=mask-icon href=https://normanou.github.io/blog/safari-pinned-tab.svg><meta name=theme-color content="#2e2e33"><meta name=msapplication-TileColor content="#2e2e33"><link rel=alternate type=application/rss+xml href=https://normanou.github.io/blog/index.xml title=rss><link rel=alternate type=application/json href=https://normanou.github.io/blog/index.json title=json><link rel=alternate hreflang=en href=https://normanou.github.io/blog/><noscript><style>#theme-toggle,.top-link{display:none}</style><style>@media(prefers-color-scheme:dark){:root{--theme:rgb(29, 30, 32);--entry:rgb(46, 46, 51);--primary:rgb(218, 218, 219);--secondary:rgb(155, 156, 157);--tertiary:rgb(65, 66, 68);--content:rgb(196, 196, 197);--code-block-bg:rgb(46, 46, 51);--code-bg:rgb(55, 56, 62);--border:rgb(51, 51, 51);color-scheme:dark}.list{background:var(--theme)}.toc{background:var(--entry)}}@media(prefers-color-scheme:light){.list::-webkit-scrollbar-thumb{border-color:var(--code-bg)}}</style></noscript><script>localStorage.getItem("pref-theme")==="dark"?document.querySelector("html").dataset.theme="dark":localStorage.getItem("pref-theme")==="light"?document.querySelector("html").dataset.theme="light":window.matchMedia("(prefers-color-scheme: dark)").matches?document.querySelector("html").dataset.theme="dark":document.querySelector("html").dataset.theme="light"</script><meta property="og:url" content="https://normanou.github.io/blog/"><meta property="og:site_name" content="Norman 的数字花园"><meta property="og:title" content="Norman 的数字花园"><meta property="og:locale" content="zh_cn"><meta property="og:type" content="website"><meta name=twitter:card content="summary"><meta name=twitter:title content="Norman 的数字花园"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Organization","name":"Norman 的数字花园","url":"https://normanou.github.io/blog/","description":"","logo":"https://normanou.github.io/blog/favicon.ico","sameAs":["https://github.com/norman"]}</script></head><body class=list id=top><header class=header><nav class=nav><div class=logo><a href=https://normanou.github.io/blog/ accesskey=h title="Norman 的数字花园 (Alt + H)">Norman 的数字花园</a><div class=logo-switches><button id=theme-toggle accesskey=t title="(Alt + T)" aria-label="Toggle theme">
+<svg id="moon" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+<svg id="sun" width="24" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button></div></div><ul id=menu><li><a href=https://normanou.github.io/blog/ai/ title="AI 与科技"><span>AI 与科技</span></a></li><li><a href=https://normanou.github.io/blog/psychology/ title=心理与成长><span>心理与成长</span></a></li><li><a href=https://normanou.github.io/blog/business/ title=商业观察><span>商业观察</span></a></li><li><a href=https://normanou.github.io/blog/life/ title=生活随想><span>生活随想</span></a></li><li><a href=https://normanou.github.io/blog/archives/ title=归档><span>归档</span></a></li></ul></nav></header><main class=main><article class="first-entry home-info"><header class=entry-header><h1>你好，我是 Norman 👋</h1></header><div class=entry-content>程序员 | 心理咨询学习者 | 终身探索者
+这里记录我对 AI、科技、心理、商业的思考与观察。</div><footer class=entry-footer><div class=social-icons><a href=https://github.com/norman target=_blank rel="noopener noreferrer me" title=Github><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37.0 00-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44.0 0020 4.77 5.07 5.07.0 0019.91 1S18.73.65 16 2.48a13.38 13.38.0 00-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07.0 005 4.77 5.44 5.44.0 003.5 8.55c0 5.42 3.3 6.61 6.44 7A3.37 3.37.0 009 18.13V22"/></svg></a></div></footer></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>AI终于有记忆了：99%准确率刷爆SOTA，程序员的AI助手将迎来质变</h2></header><div class=entry-content><p>AI终于不再"失忆"了 你还记得上次和ChatGPT聊了什么吗？
+它不记得。
+每次打开新对话,它都是一张白纸。你告诉它的名字、偏好、项目细节,全都不见了。
+这不是Bug,这是AI的"先天缺陷"——没有长期记忆。
+但昨天晚上,这件事被彻底改变了。
+99%准确率:AI记忆难题被攻克? 2026年3月23日,Supermemory团队扔出了一颗核弹:
+超级记忆系统ASMR,在业界最难AI记忆考试LongMemEval中,刷到了99%准确率。
+这是什么概念?
+LongMemEval不是普通的测试。它模拟的是真实生产环境中的混乱情况:
+11.5万Token的对话历史(相当于一本小说) 相互矛盾的信息(你说住北京,后来又说搬去上海) 跨越多个会话的零散事件 需要时间推理的复杂问题 大多数记忆系统在这里崩溃,ASMR却拿到了99分。
+全网直呼:“太疯狂了!”
+ASMR是如何做到的? 传统记忆系统有个致命缺陷:依赖向量数据库和嵌入(Embedding)。
+简单说,就是把对话转成数字,然后通过数学计算找相似的内容。
+听起来不错,但实际效果很差。为什么?
+问题1:语义相似≠事实相同
+“我住北京"和"我搬去上海了”,语义上很像(都在说住哪),但事实完全不同。向量搜索分不清哪个是最新的。
+问题2:噪音太多
+检索出100条相似信息,其中99条都是过时的,LLM根本不知道该信哪个。
+ASMR的解决方案:完全抛弃向量搜索,用多Agent推理代替。
+3个观察者Agent + 3个搜索Agent ASMR设计了一个"6Agent协作"的流水线:
+摄取阶段(3个观察者Agent):
+Agent 1:读取会话1、3、5 Agent 2:读取会话2、4、6 Agent 3:读取会话7、9、11 每个Agent并行阅读原始对话,围绕六个维度提取信息:
+个人信息(姓名、职业、年龄) 偏好(喜欢暗色模式、用Vim编辑器) 事件(明天有考试、下周出差) 时序数据(3月1日入职、3月15日升职) 信息更新(之前住北京→现在住上海) 助手信息(AI自己的回答历史) 检索阶段(3个搜索Agent):
+Agent 1:搜索直接事实和明确陈述 Agent 2:寻找相关上下文、社交线索和暗示 Agent 3:重建时间线和关系图谱 当用户提问时,这3个Agent会主动推理,而不是被动匹配关键词。
+两套回答系统:8变体集群 vs 12变体决策森林 为了确保答案准确,ASMR尝试了两种方案:
+方案1:8变体集群(98.6%准确率)
+8个高度专业化的提示词变体并行运行 包括:精准计数器、时间专家、Context Deep Dive等 只要有一条推理路径成功,就标记为正确 方案2:12变体决策森林(97.2%准确率)
+12个GPT-4o-mini驱动的Agent独立回答 引入"聚合大模型"作为最终裁判 通过多数投票、领域信任度、冲突解决机制综合答案 最终结果:ASMR在LongMemEval中达到99%准确率。
+Supermemory:比ASMR更大的野心 但如果你以为ASMR只是一个刷榜实验,那就太小看这个团队了。
+ASMR背后,是一个叫Supermemory的完整记忆引擎——让AI真正拥有记忆的基础设施。
+...</p></div><footer class=entry-footer><span title='2026-03-24 09:35:00 +0800 CST'>March 24, 2026</span>&nbsp;·&nbsp;<span>1 min</span></footer><a class=entry-link aria-label="post link to AI终于有记忆了：99%准确率刷爆SOTA，程序员的AI助手将迎来质变" href=https://normanou.github.io/blog/posts/ai-gets-permanent-memory/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>班主任退群：当家校沟通变成'信息过载'，出路在哪？</h2></header><div class=entry-content><p>一个让家长崩溃的下午 下午4点，家长群里：
+家长A：@班主任 老师，麻烦告诉孩子去传达室拿下眼镜，刚送到的。
+（2小时后）
+家长A：@班主任 你不懂得哼一声吗？
+这是发生在辽宁一位班主任陈静身上的真实故事。
+那天她得了重感冒，参加了一个要求手机静音的会议。等她赶回去给孩子做饭时，已经晚上7点。
+她通知了孩子，但忘了回复家长。
+一个简单的遗忘，引发了家长的愤怒。
+班主任退群：2026年的教育实验 2026年2月，辽宁葫芦岛多所小学发出通知：
+班主任和科任老师将集体退出家长群，改由校领导统一管理。
+这一试点正在向多地扩散：
+沈阳多个城区 广州越秀区 其他城市跟进 表面上：减轻班主任负担 实际上：重新定义家校关系的边界
+问题根源：被"群聊"绑架的教育 1. 信息的"通货膨胀" 2010年，家长和老师的沟通：
+电话（紧急） 家访（重要） 家长会（定期） 2026年，家长群变成：
+作业通知 活动通知 成绩通知 缴费通知 请假通知 … “老师，我家孩子今天吃饭了吗？” 信息从"稀缺"变成"过载"。
+2. 边界的消失 微信的本质问题是：没有下班时间。
+班主任的一天：
+06:30 - 起床，查看群消息（是否有学生请假） 07:30 - 到校，回复早间消息 12:00 - 午休，边吃饭边回消息 18:00 - 下班，继续回消息 22:00 - 准备睡觉，还有5条未读 心理负担：
+随时待命的焦虑 没有真正的休息 职业倦怠 3. 权责的模糊 传统模式下：
+老师负责教育 家长负责养育 边界清晰 微信群模式下：
+家长：想知道孩子的一举一动 老师：被迫成为"24小时客服" 边界模糊 程序员视角：系统设计的教训 从系统设计的角度，微信群是一个糟糕的家校沟通工具。
+...</p></div><footer class=entry-footer><span title='2026-03-23 10:05:00 +0800 CST'>March 23, 2026</span>&nbsp;·&nbsp;<span>2 min</span></footer><a class=entry-link aria-label="post link to 班主任退群：当家校沟通变成'信息过载'，出路在哪？" href=https://normanou.github.io/blog/posts/class-teacher-wechat-group-exit/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>22点睡 vs 23点睡：这1小时差距，比你想象的更大</h2></header><div class=entry-content><p>一个小时能改变什么？ 昨天是世界睡眠日，知乎上一个问题火了：
+“对于习惯熬夜的年轻人来说，22点和23点睡觉差别不大，是这样吗？”
+作为一个心理咨询师学生，我想说：
+差别很大，比你想象的还大。
+生理学角度：生物钟的奥秘 昼夜节律（Circadian Rhythm） 人体有一个内置的"时钟"，叫做昼夜节律。
+核心机制：
+22:00 - 皮质醇下降，褪黑素上升 23:00 - 深度睡眠窗口期开始 00:00 - 生长激素分泌高峰 02:00 - 深度睡眠最深层 03:00 - 快速眼动睡眠（REM）增加 22点睡 vs 23点睡：
+指标 22点睡 23点睡 差距 深度睡眠时长 2.5小时 2.0小时 -20% 生长激素分泌 100% 85% -15% 记忆巩固 100% 90% -10% 情绪调节 100% 80% -20% 褪黑素的黄金时间 褪黑素在22:00-02:00分泌最旺盛。
+这4个小时被称为"睡眠黄金时间"。
+22点睡：
+完整覆盖黄金时间 褪黑素分泌量最大 睡眠质量最佳 23点睡：
+错过1小时黄金时间 褪黑素分泌量下降15% 需要1.5小时才能进入深度睡眠 心理学角度：睡眠与情绪 1. 情绪调节 睡眠不足会直接影响大脑的情绪中枢——杏仁核。
+研究数据：
+22点睡的人，杏仁核活跃度正常 23点睡的人，杏仁核活跃度增加15% 这意味着更容易焦虑、烦躁、情绪失控 临床观察： 很多来访者抱怨"情绪容易崩溃"，追问后发现都有熬夜习惯。
+2. 认知功能 前额叶皮层（负责决策、注意力）对睡眠非常敏感。
+...</p></div><footer class=entry-footer><span title='2026-03-23 09:55:00 +0800 CST'>March 23, 2026</span>&nbsp;·&nbsp;<span>2 min</span></footer><a class=entry-link aria-label="post link to 22点睡 vs 23点睡：这1小时差距，比你想象的更大" href=https://normanou.github.io/blog/posts/10pm-vs-11pm-sleep/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>中国车企全球销量首次超越日本：这个历史性时刻意味着什么？</h2></header><div class=entry-content><p>一个历史性的转折点 2026年3月，日媒《日本经济新闻》报道了一则震撼消息：
+中国车企全球销量首次超越日本，跃居世界第一。
+数据对比：
+中国：2700万辆 日本：2500万辆 这是自2000年以来，首次有国家在汽车销量上超越日本。
+但这个数字背后，藏着更深层的故事。
+数据拆解：谁在领跑？ 中国车企的"六金刚" 在全球销量前20名的汽车制造商中，中国占据了6席：
+比亚迪 - 销量超越福特，全球第6 吉利 - 销量超越本田，全球第8 奇瑞 长安 上汽 长城 日本车企的"五强" 日本上榜的5家：
+丰田 本田 日产 铃木 马自达 关键变化 比亚迪的崛起：
+纯电动汽车销量超越特斯拉，全球第一 从"追随者"变成"领跑者" 在东南亚、欧洲市场快速扩张 吉利的进击：
+收购沃尔沃后的技术积累 在俄罗斯、中东市场表现强劲 高端品牌领克开始全球化 为什么是现在？ 1. 新能源汽车的技术优势 中国在电动车领域的积累，终于在2025年爆发。
+技术指标：
+电池能量密度：全球领先 充电速度：800V高压平台普及 成本控制：比日系车低15-20% 数据：
+中国新能源汽车渗透率：45% 日本新能源汽车渗透率：8% 这不是"弯道超车"，这是"换道超车"。
+2. 供应链的完整闭环 从锂矿到电池，从芯片到整车，中国建立了全球最完整的电动车供应链。
+成本优势：
+电池成本：比日本低30% 电机成本：比欧洲低25% 整车制造成本：比日本低15% 3. 市场的双重驱动 国内市场：
+政策支持（补贴、牌照优惠） 消费升级（对智能化的需求） 基建完善（充电桩网络） 海外市场：
+东南亚：性价比优势 欧洲：环保政策驱动 拉美：市场空白 日本的困境 1. 押错赛道 日本车企在氢能源上投入巨大，但市场选择了电动车。
+...</p></div><footer class=entry-footer><span title='2026-03-23 09:45:00 +0800 CST'>March 23, 2026</span>&nbsp;·&nbsp;<span>2 min</span></footer><a class=entry-link aria-label="post link to 中国车企全球销量首次超越日本：这个历史性时刻意味着什么？" href=https://normanou.github.io/blog/posts/china-automakers-overtake-japan/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>OpenAI急招3500人：当AI巨头开始'军备竞赛'，我们看到了什么？</h2></header><div class=entry-content><p>3500人是什么概念？ 2026年3月，OpenAI宣布启动大规模招聘计划——3500人。
+这是什么概念？
+相当于3个字节跳动的员工规模 超过中国AI创业公司的总和 接近Google DeepMind的2倍 但最关键的问题不是"招多少人"，而是：为什么OpenAI如此焦虑？
+强敌环伺：OpenAI的四重威胁 1. Anthropic：Claude的步步紧逼 从GPT-4到Claude 3，竞争已经从"追赶"变成"超越"。
+技术指标对比：
+长文本处理：Claude 3支持200K tokens，GPT-4 Turbo仅128K 推理能力：Claude 3在复杂逻辑测试中与GPT-4持平 安全性：Claude的Constitutional AI成为行业标杆 市场表现：
+Claude 3发布后，市场份额从15%上升到25% 企业客户开始"双轨制"（同时使用GPT和Claude） 2. Google：Gemini的反击 Google不再是"追赶者"，而是"领先者"。
+技术突破：
+Gemini 2.0在多模态任务中超越GPT-4V TPU v5算力成本比NVIDIA低30% 长期记忆能力（Project Astra） 生态优势：
+搜索引擎整合 Android系统预装 Workspace办公套件集成 3. Meta：开源的降维打击 Llama 3的开源，改变了游戏规则。
+数据：
+Llama 3下载量超过1亿次 开源社区贡献了500+衍生模型 企业使用Llama 3的成本仅为GPT-4的1/10 影响：
+中小企业不再需要付费API 研究机构可以自由修改模型 OpenAI的商业护城河被削弱 4. 中国玩家：本土化的市场分割 百度（文心一言）、阿里（通义千问）、字节（豆包）正在瓜分中国市场。
+市场份额：
+中国AI助手市场，本土产品占比70% 企业服务领域，国产模型成为首选 政策限制让OpenAI难以进入 程序员视角：3500人能做什么？ 从技术团队的角度，这3500人可能分布在：
+研发团队（约2000人） 模型训练：500人 - 大规模预训练 - 多模态融合 - 推理能力提升 推理优化：400人 - 模型压缩 - 推理加速 - 成本降低 多模态：300人 - 视觉理解 - 音频生成 - 视频处理 工具集成：300人 - 代码解释器 - 文件处理 - API优化 安全对齐：500人 - RLHF - Constitutional AI - 红队测试 产品团队（约800人） ChatGPT产品：400人 企业服务：300人 开发者生态：100人 运营团队（约700人） 市场营销：300人 客户服务：250人 合规法务：150人 心理学角度：为什么人才战争如此重要？ 从心理咨询的角度，AI行业的人才竞争有几个心理机制：
+...</p></div><footer class=entry-footer><span title='2026-03-23 09:35:00 +0800 CST'>March 23, 2026</span>&nbsp;·&nbsp;<span>2 min</span></footer><a class=entry-link aria-label="post link to OpenAI急招3500人：当AI巨头开始'军备竞赛'，我们看到了什么？" href=https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>马斯克的星际野心：1太瓦算力工厂背后，是人类的星际文明梦</h2></header><div class=entry-content><p>一个太瓦是什么概念？ 马斯克又做了一件"不可能"的事。
+这次不是火箭，不是电动车，而是——芯片。
+2026年3月22日，马斯克宣布在德州奥斯汀建设TERAFAB工厂，目标年产1太瓦（1万亿瓦）算力。
+这是什么概念？
+相当于50个三峡大坝的总发电量 超过目前全球所有芯片制造商总产能 能为10亿台人形机器人提供芯片 但最疯狂的不是这个数字，而是他的终极目标：让人类从I型文明迈向II型文明。
+为什么马斯克要造芯片？ 你可能觉得，马斯克造车、造火箭、搞AI，现在又造芯片，是不是太贪心了？
+其实不是贪心，而是不得不做。
+算力缺口：地球满足不了马斯克的野心 目前全球AI计算年产能约20GW。
+马斯克需要多少？
+Optimus机器人：100-200GW 太空AI卫星：1000GW（1太瓦） 也就是说，他需要的算力是目前全球产能的50倍。
+这就是TERAFAB存在的意义。
+芯片制造的"不可能三角" 传统芯片制造有个不可能三角：逻辑芯片、存储芯片、封装测试——通常需要不同的工厂完成。
+马斯克要做的，是在同一座建筑内完成所有环节：
+设计 → 掩模版制作 → 晶圆制造 → 封装测试 → 优化设计 → 循环 这意味着什么？
+极速迭代。
+当别人还在等待代工厂的排期时，马斯克已经完成了10次迭代优化。
+80%算力去太空？马斯克的算盘 TERAFAB的芯片，80%将用于太空，20%用于地面。
+为什么要把算力送上天？
+太空的优势：永远有阳光 在地球上，太阳能受限于：
+昼夜交替 天气变化 季节差异 地理位置 在太空中？
+24小时阳光直射 没有大气衰减 5倍以上的发电效率 马斯克说：“可能只需两三年，将AI芯片送入太空的成本就会低于地面部署。”
+规模经济的降维打击 在地球上：
+增加电力 → 土地不足 → 邻避效应 → 成本越来越高 在太空中：
+增加电力 → 发射更多卫星 → 规模经济 → 成本越来越低 这就是马斯克选择太空的逻辑。
+从地球文明到星际文明 这才是最疯狂的部分。
+马斯克的目标不是赚钱，而是让人类成为多星球物种。
+卡尔达舍夫文明等级 苏联天文学家卡尔达舍夫在1964年提出文明等级：
+...</p></div><footer class=entry-footer><span title='2026-03-23 08:35:00 +0800 CST'>March 23, 2026</span>&nbsp;·&nbsp;<span>1 min</span></footer><a class=entry-link aria-label="post link to 马斯克的星际野心：1太瓦算力工厂背后，是人类的星际文明梦" href=https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/></a></article></main><footer class=footer><span>&copy; 2026 <a href=https://normanou.github.io/blog/>Norman 的数字花园</a></span> ·
+<span>Powered by
+<a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
+<a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentColor"><path d="M12 6H0l6-6z"/></svg>
+</a><script>let menu=document.getElementById("menu");if(menu){const e=localStorage.getItem("menu-scroll-position");e&&(menu.scrollLeft=parseInt(e,10)),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}}document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);window.matchMedia("(prefers-reduced-motion: reduce)").matches?document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script><script>document.getElementById("theme-toggle").addEventListener("click",()=>{const e=document.querySelector("html");e.dataset.theme==="dark"?(e.dataset.theme="light",localStorage.setItem("pref-theme","light")):(e.dataset.theme="dark",localStorage.setItem("pref-theme","dark"))})</script></body></html>
