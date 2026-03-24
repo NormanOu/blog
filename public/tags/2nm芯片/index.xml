@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>2nm芯片 on Norman 的数字花园</title><link>https://normanou.github.io/blog/tags/2nm%E8%8A%AF%E7%89%87/</link><description>Recent content in 2nm芯片 on Norman 的数字花园</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 23 Mar 2026 08:35:00 +0800</lastBuildDate><atom:link href="https://normanou.github.io/blog/tags/2nm%E8%8A%AF%E7%89%87/index.xml" rel="self" type="application/rss+xml"/><item><title>马斯克的星际野心：1太瓦算力工厂背后，是人类的星际文明梦</title><link>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</link><pubDate>Mon, 23 Mar 2026 08:35:00 +0800</pubDate><guid>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</guid><description>马斯克宣布建设TERAFAB工厂，年产1太瓦算力，相当于50个三峡大坝。这不仅是芯片工厂，更是人类迈向星际文明的基础设施。从程序员视角和心理咨询角度，深度解读马斯克的星际野心。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2nm芯片 on Norman 的数字花园</title>
+    <link>https://normanou.github.io/blog/tags/2nm%E8%8A%AF%E7%89%87/</link>
+    <description>Recent content in 2nm芯片 on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Mar 2026 08:35:00 +0800</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/tags/2nm%E8%8A%AF%E7%89%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>马斯克的星际野心：1太瓦算力工厂背后，是人类的星际文明梦</title>
+      <link>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</link>
+      <pubDate>Mon, 23 Mar 2026 08:35:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</guid>
+      <description>马斯克宣布建设TERAFAB工厂，年产1太瓦算力，相当于50个三峡大坝。这不仅是芯片工厂，更是人类迈向星际文明的基础设施。从程序员视角和心理咨询角度，深度解读马斯克的星际野心。</description>
+    </item>
+  </channel>
+</rss>

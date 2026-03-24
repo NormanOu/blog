@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gemini 2.0 on Norman 的数字花园</title><link>https://normanou.github.io/blog/tags/gemini-2.0/</link><description>Recent content in Gemini 2.0 on Norman 的数字花园</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 23 Mar 2026 09:35:00 +0800</lastBuildDate><atom:link href="https://normanou.github.io/blog/tags/gemini-2.0/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenAI急招3500人：当AI巨头开始'军备竞赛'，我们看到了什么？</title><link>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</link><pubDate>Mon, 23 Mar 2026 09:35:00 +0800</pubDate><guid>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</guid><description>OpenAI宣布急招3500人，年人力成本75亿人民币。背后是Anthropic的Claude、Google的Gemini、Meta的Llama、中国AI玩家的四大威胁。从程序员和创业者视角，深度分析AI巨头的人才战争。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gemini 2.0 on Norman 的数字花园</title>
+    <link>https://normanou.github.io/blog/tags/gemini-2.0/</link>
+    <description>Recent content in Gemini 2.0 on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Mar 2026 09:35:00 +0800</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/tags/gemini-2.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI急招3500人：当AI巨头开始&#39;军备竞赛&#39;，我们看到了什么？</title>
+      <link>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</link>
+      <pubDate>Mon, 23 Mar 2026 09:35:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</guid>
+      <description>OpenAI宣布急招3500人，年人力成本75亿人民币。背后是Anthropic的Claude、Google的Gemini、Meta的Llama、中国AI玩家的四大威胁。从程序员和创业者视角，深度分析AI巨头的人才战争。</description>
+    </item>
+  </channel>
+</rss>

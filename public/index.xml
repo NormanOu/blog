@@ -1,15 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Norman 的数字花园</title><link>https://normanou.github.io/blog/</link><description>Recent content on Norman 的数字花园</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 24 Mar 2026 09:35:00 +0800</lastBuildDate><atom:link href="https://normanou.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>AI终于有记忆了：99%准确率刷爆SOTA，程序员的AI助手将迎来质变</title><link>https://normanou.github.io/blog/posts/ai-gets-permanent-memory/</link><pubDate>Tue, 24 Mar 2026 09:35:00 +0800</pubDate><guid>https://normanou.github.io/blog/posts/ai-gets-permanent-memory/</guid><description>Supermemory团队推出ASMR系统，在AI最难记忆考试中达到99%准确率。抛弃传统向量数据库，采用多Agent并行推理，AI终于不再失忆。对程序员意味着什么？</description></item><item><title>班主任退群：当家校沟通变成'信息过载'，出路在哪？</title><link>https://normanou.github.io/blog/posts/class-teacher-wechat-group-exit/</link><pubDate>Mon, 23 Mar 2026 10:05:00 +0800</pubDate><guid>https://normanou.github.io/blog/posts/class-teacher-wechat-group-exit/</guid><description>2026年多地试点班主任退群，改由学校行政和家委会管理。从程序员视角（系统设计）和心理咨询角度（家庭关系），深度分析微信群如何绑架了教育，以及重建家校边界的出路。</description></item><item><title>22点睡 vs 23点睡：这1小时差距，比你想象的更大</title><link>https://normanou.github.io/blog/posts/10pm-vs-11pm-sleep/</link><pubDate>Mon, 23 Mar 2026 09:55:00 +0800</pubDate><guid>https://normanou.github.io/blog/posts/10pm-vs-11pm-sleep/</guid><description>22点睡vs23点睡，表面差1小时，实际差20%深度睡眠、15%生长激素、20%情绪调节能力。从心理咨询视角和程序员健康角度，深度解析睡眠的生理机制和心理影响，附自我实验数据。</description></item><item><title>中国车企全球销量首次超越日本：这个历史性时刻意味着什么？</title><link>https://normanou.github.io/blog/posts/china-automakers-overtake-japan/</link><pubDate>Mon, 23 Mar 2026 09:45:00 +0800</pubDate><guid>https://normanou.github.io/blog/posts/china-automakers-overtake-japan/</guid><description>2026年中国车企全球销量2700万辆，首次超越日本。比亚迪超越福特全球第6，吉利超越本田全球第8。从程序员视角和创业经历，深度分析中国车企崛起的技术优势、供应链闭环和市场驱动。</description></item><item><title>OpenAI急招3500人：当AI巨头开始'军备竞赛'，我们看到了什么？</title><link>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</link><pubDate>Mon, 23 Mar 2026 09:35:00 +0800</pubDate><guid>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</guid><description>OpenAI宣布急招3500人，年人力成本75亿人民币。背后是Anthropic的Claude、Google的Gemini、Meta的Llama、中国AI玩家的四大威胁。从程序员和创业者视角，深度分析AI巨头的人才战争。</description></item><item><title>马斯克的星际野心：1太瓦算力工厂背后，是人类的星际文明梦</title><link>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</link><pubDate>Mon, 23 Mar 2026 08:35:00 +0800</pubDate><guid>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</guid><description>马斯克宣布建设TERAFAB工厂，年产1太瓦算力，相当于50个三峡大坝。这不仅是芯片工厂，更是人类迈向星际文明的基础设施。从程序员视角和心理咨询角度，深度解读马斯克的星际野心。</description></item><item><title>中国车企全球销量首次超越日本，这意味着什么？</title><link>https://normanou.github.io/blog/business/china-auto-surpass-japan/</link><pubDate>Sun, 22 Mar 2026 23:15:00 +0800</pubDate><guid>https://normanou.github.io/blog/business/china-auto-surpass-japan/</guid><description>&lt;p&gt;今天，知乎热榜第一的话题吸引了我的注意：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Norman 的数字花园</title>
+    <link>https://normanou.github.io/blog/</link>
+    <description>Recent content on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 24 Mar 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>12家企业被约谈：美团、携程、抖音在内，平台&#39;内卷式&#39;竞争何时休？</title>
+      <link>https://normanou.github.io/blog/posts/12-platforms-interviewed/</link>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/12-platforms-interviewed/</guid>
+      <description>北京市监局约谈携程、美团、京东、抖音等12家企业，通报平台内卷式竞争问题：侵害商家自主经营权、设置不合理规则、虚假宣传。这对商家和消费者意味着什么？</description>
+    </item>
+    <item>
+      <title>AI终于有记忆了：99%准确率刷爆SOTA，程序员的AI助手将迎来质变</title>
+      <link>https://normanou.github.io/blog/posts/ai-gets-permanent-memory/</link>
+      <pubDate>Tue, 24 Mar 2026 09:35:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/ai-gets-permanent-memory/</guid>
+      <description>Supermemory团队推出ASMR系统，在AI最难记忆考试中达到99%准确率。抛弃传统向量数据库，采用多Agent并行推理，AI终于不再失忆。对程序员意味着什么？</description>
+    </item>
+    <item>
+      <title>班主任退群：当家校沟通变成&#39;信息过载&#39;，出路在哪？</title>
+      <link>https://normanou.github.io/blog/posts/class-teacher-wechat-group-exit/</link>
+      <pubDate>Mon, 23 Mar 2026 10:05:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/class-teacher-wechat-group-exit/</guid>
+      <description>2026年多地试点班主任退群，改由学校行政和家委会管理。从程序员视角（系统设计）和心理咨询角度（家庭关系），深度分析微信群如何绑架了教育，以及重建家校边界的出路。</description>
+    </item>
+    <item>
+      <title>22点睡 vs 23点睡：这1小时差距，比你想象的更大</title>
+      <link>https://normanou.github.io/blog/posts/10pm-vs-11pm-sleep/</link>
+      <pubDate>Mon, 23 Mar 2026 09:55:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/10pm-vs-11pm-sleep/</guid>
+      <description>22点睡vs23点睡，表面差1小时，实际差20%深度睡眠、15%生长激素、20%情绪调节能力。从心理咨询视角和程序员健康角度，深度解析睡眠的生理机制和心理影响，附自我实验数据。</description>
+    </item>
+    <item>
+      <title>中国车企全球销量首次超越日本：这个历史性时刻意味着什么？</title>
+      <link>https://normanou.github.io/blog/posts/china-automakers-overtake-japan/</link>
+      <pubDate>Mon, 23 Mar 2026 09:45:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/china-automakers-overtake-japan/</guid>
+      <description>2026年中国车企全球销量2700万辆，首次超越日本。比亚迪超越福特全球第6，吉利超越本田全球第8。从程序员视角和创业经历，深度分析中国车企崛起的技术优势、供应链闭环和市场驱动。</description>
+    </item>
+    <item>
+      <title>OpenAI急招3500人：当AI巨头开始&#39;军备竞赛&#39;，我们看到了什么？</title>
+      <link>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</link>
+      <pubDate>Mon, 23 Mar 2026 09:35:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</guid>
+      <description>OpenAI宣布急招3500人，年人力成本75亿人民币。背后是Anthropic的Claude、Google的Gemini、Meta的Llama、中国AI玩家的四大威胁。从程序员和创业者视角，深度分析AI巨头的人才战争。</description>
+    </item>
+    <item>
+      <title>马斯克的星际野心：1太瓦算力工厂背后，是人类的星际文明梦</title>
+      <link>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</link>
+      <pubDate>Mon, 23 Mar 2026 08:35:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</guid>
+      <description>马斯克宣布建设TERAFAB工厂，年产1太瓦算力，相当于50个三峡大坝。这不仅是芯片工厂，更是人类迈向星际文明的基础设施。从程序员视角和心理咨询角度，深度解读马斯克的星际野心。</description>
+    </item>
+    <item>
+      <title>中国车企全球销量首次超越日本，这意味着什么？</title>
+      <link>https://normanou.github.io/blog/business/china-auto-surpass-japan/</link>
+      <pubDate>Sun, 22 Mar 2026 23:15:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/business/china-auto-surpass-japan/</guid>
+      <description>&lt;p&gt;今天，知乎热榜第一的话题吸引了我的注意：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;日媒报道：中国车企全球销量20多年来首次超越日本，位居榜首。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;517 万热度，这个数字本身就很说明问题——这件事，让很多人&amp;quot;破防&amp;quot;了。&lt;/p&gt;
-&lt;h2 id="数据说了什么"&gt;数据说了什么？&lt;/h2&gt;
+&lt;h2 id=&#34;数据说了什么&#34;&gt;数据说了什么？&lt;/h2&gt;
 &lt;p&gt;根据《日本经济新闻》的报道：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;日本车企&lt;/strong&gt; 2025 年全球销量约 &lt;strong&gt;2500万辆&lt;/strong&gt;，同比下降&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;中国车企&lt;/strong&gt; 2025 年全球销量近 &lt;strong&gt;2700万辆&lt;/strong&gt;，首次超越日本&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="中日销量对比" loading="lazy" src="https://normanou.github.io/blog/images/charts/china-japan-sales.png"&gt;
+&lt;p&gt;&lt;img alt=&#34;中日销量对比&#34; loading=&#34;lazy&#34; src=&#34;https://normanou.github.io/blog/images/charts/china-japan-sales.png&#34;&gt;
 &lt;em&gt;2025年中日汽车销量对比（单位：万辆）&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;更值得注意的是：&lt;/p&gt;
 &lt;ul&gt;
@@ -17,23 +81,23 @@
 &lt;li&gt;&lt;strong&gt;吉利&lt;/strong&gt; 销量超越本田，全球第八&lt;/li&gt;
 &lt;li&gt;全球前 20 名中，中国有 &lt;strong&gt;6家&lt;/strong&gt; 上榜，超过日本的 &lt;strong&gt;5家&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="全球Top10车企" loading="lazy" src="https://normanou.github.io/blog/images/charts/global-top10-automakers.png"&gt;
+&lt;p&gt;&lt;img alt=&#34;全球Top10车企&#34; loading=&#34;lazy&#34; src=&#34;https://normanou.github.io/blog/images/charts/global-top10-automakers.png&#34;&gt;
 &lt;em&gt;2025年全球Top10车企销量排名（红色为中国车企）&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="各国占比" loading="lazy" src="https://normanou.github.io/blog/images/charts/country-distribution.png"&gt;
+&lt;p&gt;&lt;img alt=&#34;各国占比&#34; loading=&#34;lazy&#34; src=&#34;https://normanou.github.io/blog/images/charts/country-distribution.png&#34;&gt;
 &lt;em&gt;全球Top20车企各国数量分布&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id="为什么能超越"&gt;为什么能超越？&lt;/h2&gt;
+&lt;h2 id=&#34;为什么能超越&#34;&gt;为什么能超越？&lt;/h2&gt;
 &lt;p&gt;这绝非偶然。日本瑞穗银行的汽车专家汤进分析得很到位：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;中国汽车的快速发展源于&lt;strong&gt;先进技术、成本优势、研发速度&lt;/strong&gt;等多方面的综合实力。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;我补充几点：&lt;/p&gt;
-&lt;h3 id="1-电动化转型"&gt;1. 电动化转型&lt;/h3&gt;
+&lt;h3 id=&#34;1-电动化转型&#34;&gt;1. 电动化转型&lt;/h3&gt;
 &lt;p&gt;中国在电动车领域几乎是&amp;quot;弯道超车&amp;quot;的教科书案例。电池技术、供应链、市场规模，三个维度全面领先。&lt;/p&gt;
-&lt;h3 id="2-性价比"&gt;2. 性价比&lt;/h3&gt;
+&lt;h3 id=&#34;2-性价比&#34;&gt;2. 性价比&lt;/h3&gt;
 &lt;p&gt;不是最便宜的，但同价位配置最高。这个策略在东南亚、拉美市场特别有效。&lt;/p&gt;
-&lt;h3 id="3-互联网思维"&gt;3. 互联网思维&lt;/h3&gt;
+&lt;h3 id=&#34;3-互联网思维&#34;&gt;3. 互联网思维&lt;/h3&gt;
 &lt;p&gt;中国车企更像科技公司——快速迭代、软件定义汽车、用户运营。传统日系车企在这方面明显落后。&lt;/p&gt;
-&lt;h2 id="这意味着什么"&gt;这意味着什么？&lt;/h2&gt;
+&lt;h2 id=&#34;这意味着什么&#34;&gt;这意味着什么？&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;短期来看：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;日本车企压力山大，必须加速电动化&lt;/li&gt;
@@ -43,7 +107,7 @@
 &lt;p&gt;&lt;strong&gt;长期来看：&lt;/strong&gt;
 这不仅仅是一个排名的变化，而是&lt;strong&gt;全球汽车影响力版图已经开始重构&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;日本需要对其汽车产业电动化和全球战略进行重新调整。&lt;/p&gt;
-&lt;h2 id="我的思考"&gt;我的思考&lt;/h2&gt;
+&lt;h2 id=&#34;我的思考&#34;&gt;我的思考&lt;/h2&gt;
 &lt;p&gt;作为一个观察者，我认为这件事的象征意义大于实际意义。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;为什么？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -55,12 +119,19 @@
 中国汽车已经从一个&amp;quot;追赶者&amp;quot;，变成了一个&amp;quot;竞争者&amp;quot;，甚至在某些领域成为&amp;quot;领先者&amp;quot;。&lt;/p&gt;
 &lt;p&gt;这是一个时代的转折点。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;你怎么看中国汽车的崛起？欢迎讨论。&lt;/em&gt;&lt;/p&gt;</description></item><item><title>22点睡 vs 23点睡，这一个小时差在哪？</title><link>https://normanou.github.io/blog/life/sleep-time-difference/</link><pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate><guid>https://normanou.github.io/blog/life/sleep-time-difference/</guid><description>&lt;p&gt;知乎上一个56万热度的问题：&lt;strong&gt;对于习惯熬夜的年轻人，22点和23点睡觉差别不大，是这样吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;你怎么看中国汽车的崛起？欢迎讨论。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>22点睡 vs 23点睡，这一个小时差在哪？</title>
+      <link>https://normanou.github.io/blog/life/sleep-time-difference/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/life/sleep-time-difference/</guid>
+      <description>&lt;p&gt;知乎上一个56万热度的问题：&lt;strong&gt;对于习惯熬夜的年轻人，22点和23点睡觉差别不大，是这样吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;作为一个经常熬夜的程序员，我决定认真研究一下这个问题。&lt;/p&gt;
-&lt;h2 id="先说结论"&gt;先说结论&lt;/h2&gt;
+&lt;h2 id=&#34;先说结论&#34;&gt;先说结论&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;差别很大，但不是因为&amp;quot;玄学&amp;quot;，而是因为生理节律。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id="科学解释"&gt;科学解释&lt;/h2&gt;
-&lt;h3 id="1-生物钟与激素分泌"&gt;1. 生物钟与激素分泌&lt;/h3&gt;
+&lt;h2 id=&#34;科学解释&#34;&gt;科学解释&lt;/h2&gt;
+&lt;h3 id=&#34;1-生物钟与激素分泌&#34;&gt;1. 生物钟与激素分泌&lt;/h3&gt;
 &lt;p&gt;人体有两个关键的睡眠相关激素：&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;褪黑素（Melatonin）&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -75,7 +146,7 @@
 &lt;/ul&gt;
 &lt;p&gt;22点睡觉，正好赶上褪黑素刚开始分泌，睡眠质量最好。
 23点睡觉，褪黑素已经分泌了一段时间，你错过了最佳入睡窗口。&lt;/p&gt;
-&lt;h3 id="2-睡眠周期"&gt;2. 睡眠周期&lt;/h3&gt;
+&lt;h3 id=&#34;2-睡眠周期&#34;&gt;2. 睡眠周期&lt;/h3&gt;
 &lt;p&gt;一个完整睡眠周期约90分钟，包括：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;浅睡眠&lt;/li&gt;
@@ -85,38 +156,38 @@
 &lt;p&gt;22点入睡，到早上7点起床，可以完成约6个完整周期。
 23点入睡，只有约5.3个周期——最后一个周期会被打断。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;被叫醒的感觉差异，你懂的。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id="实际差别有多大"&gt;实际差别有多大？&lt;/h2&gt;
+&lt;h2 id=&#34;实际差别有多大&#34;&gt;实际差别有多大？&lt;/h2&gt;
 &lt;p&gt;根据研究数据：&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;指标&lt;/th&gt;
-&lt;th&gt;22点睡&lt;/th&gt;
-&lt;th&gt;23点睡&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;深睡眠时长&lt;/td&gt;
-&lt;td&gt;更多&lt;/td&gt;
-&lt;td&gt;减少10-15%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;第二天精力&lt;/td&gt;
-&lt;td&gt;充沛&lt;/td&gt;
-&lt;td&gt;略微疲劳&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;免疫力&lt;/td&gt;
-&lt;td&gt;更好&lt;/td&gt;
-&lt;td&gt;略低&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;皮肤状态&lt;/td&gt;
-&lt;td&gt;更好&lt;/td&gt;
-&lt;td&gt;略差&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;指标&lt;/th&gt;
+          &lt;th&gt;22点睡&lt;/th&gt;
+          &lt;th&gt;23点睡&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;深睡眠时长&lt;/td&gt;
+          &lt;td&gt;更多&lt;/td&gt;
+          &lt;td&gt;减少10-15%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;第二天精力&lt;/td&gt;
+          &lt;td&gt;充沛&lt;/td&gt;
+          &lt;td&gt;略微疲劳&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;免疫力&lt;/td&gt;
+          &lt;td&gt;更好&lt;/td&gt;
+          &lt;td&gt;略低&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;皮肤状态&lt;/td&gt;
+          &lt;td&gt;更好&lt;/td&gt;
+          &lt;td&gt;略差&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;看起来差别不大？&lt;strong&gt;但这是每天累积的。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一年下来：&lt;/p&gt;
@@ -125,7 +196,7 @@
 &lt;li&gt;23点睡的人：365天 × 次优睡眠&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;10年呢？这就是为什么有些人看起来比同龄人年轻10岁。&lt;/p&gt;
-&lt;h2 id="我的建议"&gt;我的建议&lt;/h2&gt;
+&lt;h2 id=&#34;我的建议&#34;&gt;我的建议&lt;/h2&gt;
 &lt;p&gt;如果你现在习惯23点甚至更晚睡：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;不要一下子改到22点&lt;/strong&gt; - 身体会反抗&lt;/li&gt;
@@ -133,21 +204,28 @@
 &lt;li&gt;&lt;strong&gt;先固定起床时间&lt;/strong&gt; - 倒逼入睡时间&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;睡前1小时远离屏幕&lt;/strong&gt; - 蓝光会抑制褪黑素&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="写在最后"&gt;写在最后&lt;/h2&gt;
+&lt;h2 id=&#34;写在最后&#34;&gt;写在最后&lt;/h2&gt;
 &lt;p&gt;程序员圈子流行一句话：&amp;ldquo;凌晨4点的代码最美。&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;但我想说：&lt;strong&gt;凌晨4点的代码，不值得用健康去换。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;22点还是23点，差的不是一个小时，是十年后的你。&lt;/p&gt;</description></item><item><title>金价断崖式下跌，现在该抄底还是观望？</title><link>https://normanou.github.io/blog/ai/gold-price-crash/</link><pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate><guid>https://normanou.github.io/blog/ai/gold-price-crash/</guid><description>&lt;p&gt;今天，&amp;ldquo;金价断崖式下跌&amp;quot;冲上微博热搜，热度超过247万。很多人在问：&lt;strong&gt;现在是抄底的好时机吗？&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id="先看数据"&gt;先看数据&lt;/h2&gt;
+&lt;p&gt;22点还是23点，差的不是一个小时，是十年后的你。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>金价断崖式下跌，现在该抄底还是观望？</title>
+      <link>https://normanou.github.io/blog/ai/gold-price-crash/</link>
+      <pubDate>Sun, 22 Mar 2026 23:00:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/ai/gold-price-crash/</guid>
+      <description>&lt;p&gt;今天，&amp;ldquo;金价断崖式下跌&amp;quot;冲上微博热搜，热度超过247万。很多人在问：&lt;strong&gt;现在是抄底的好时机吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;先看数据&#34;&gt;先看数据&lt;/h2&gt;
 &lt;p&gt;国际金价连续八个交易日下跌，创下近期新低。这对于习惯了&amp;quot;黄金永远涨&amp;quot;的投资者来说，确实是个震撼。&lt;/p&gt;
-&lt;h2 id="为什么下跌"&gt;为什么下跌？&lt;/h2&gt;
+&lt;h2 id=&#34;为什么下跌&#34;&gt;为什么下跌？&lt;/h2&gt;
 &lt;p&gt;我分析了几个主要原因：&lt;/p&gt;
-&lt;h3 id="1-美元走强"&gt;1. 美元走强&lt;/h3&gt;
+&lt;h3 id=&#34;1-美元走强&#34;&gt;1. 美元走强&lt;/h3&gt;
 &lt;p&gt;美联储鹰派信号强烈，市场预期4月可能加息。美元指数走强，以美元计价的黄金自然承压。&lt;/p&gt;
-&lt;h3 id="2-地缘冲突的反向效应"&gt;2. 地缘冲突的&amp;quot;反向效应&amp;rdquo;&lt;/h3&gt;
+&lt;h3 id=&#34;2-地缘冲突的反向效应&#34;&gt;2. 地缘冲突的&amp;quot;反向效应&amp;rdquo;&lt;/h3&gt;
 &lt;p&gt;传统观点认为&amp;quot;乱世买黄金&amp;quot;，但这次中东冲突反而导致部分资金流向美元避险。为什么？因为不确定性太高，流动性更重要的。&lt;/p&gt;
-&lt;h3 id="3-技术性抛售"&gt;3. 技术性抛售&lt;/h3&gt;
+&lt;h3 id=&#34;3-技术性抛售&#34;&gt;3. 技术性抛售&lt;/h3&gt;
 &lt;p&gt;金价连续下跌触发止损盘，形成负反馈循环。&lt;/p&gt;
-&lt;h2 id="该抄底吗"&gt;该抄底吗？&lt;/h2&gt;
+&lt;h2 id=&#34;该抄底吗&#34;&gt;该抄底吗？&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;我的建议：不要着急。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;原因很简单：&lt;/p&gt;
 &lt;ul&gt;
@@ -161,16 +239,23 @@
 &lt;li&gt;等待企稳信号（比如连续3天不创新低）&lt;/li&gt;
 &lt;li&gt;控制仓位，黄金配置不超过总资产的10%&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id="长期观点"&gt;长期观点&lt;/h2&gt;
+&lt;h2 id=&#34;长期观点&#34;&gt;长期观点&lt;/h2&gt;
 &lt;p&gt;黄金作为避险资产，长期价值依然存在。但短期波动是常态。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;记住：投资不是赌博，是概率游戏。&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;本文不构成投资建议，投资有风险，入市需谨慎。&lt;/em&gt;&lt;/p&gt;</description></item><item><title>AI演员遭抵制，我们到底在害怕什么？</title><link>https://normanou.github.io/blog/ai/ai-actor-controversy/</link><pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate><guid>https://normanou.github.io/blog/ai/ai-actor-controversy/</guid><description>&lt;p&gt;最近，&amp;ldquo;AI演员&amp;quot;的话题在抖音上引发热议，热度高达900多万。很多人在问：AI到底能不能取代演员？&lt;/p&gt;
-&lt;h2 id="一个程序员视角的思考"&gt;一个程序员视角的思考&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;本文不构成投资建议，投资有风险，入市需谨慎。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI演员遭抵制，我们到底在害怕什么？</title>
+      <link>https://normanou.github.io/blog/ai/ai-actor-controversy/</link>
+      <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/ai/ai-actor-controversy/</guid>
+      <description>&lt;p&gt;最近，&amp;ldquo;AI演员&amp;quot;的话题在抖音上引发热议，热度高达900多万。很多人在问：AI到底能不能取代演员？&lt;/p&gt;
+&lt;h2 id=&#34;一个程序员视角的思考&#34;&gt;一个程序员视角的思考&lt;/h2&gt;
 &lt;p&gt;作为一个程序员，我对AI的态度一直是：&lt;strong&gt;拥抱变化，但保持警惕。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI能演戏吗？技术上已经可以了。深度伪造（Deepfake）技术已经能把一个人的脸&amp;quot;贴&amp;quot;到另一个人的身上，甚至可以生成完全虚拟的数字人。从技术角度看，AI演员不是&amp;quot;能不能&amp;quot;的问题，而是&amp;quot;什么时候&amp;quot;的问题。&lt;/p&gt;
 &lt;p&gt;但为什么这么多人抵制？&lt;/p&gt;
-&lt;h2 id="我们害怕的不是技术是虚假"&gt;我们害怕的不是技术，是&amp;quot;虚假&amp;rdquo;&lt;/h2&gt;
+&lt;h2 id=&#34;我们害怕的不是技术是虚假&#34;&gt;我们害怕的不是技术，是&amp;quot;虚假&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;人类对&amp;quot;真实&amp;quot;有近乎执念的追求。我们看电影，表面上是在看故事，实际上是在感受&lt;strong&gt;另一个真实的人的情感表达&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;一个演员哭了，我们被打动，是因为我们知道：&lt;/p&gt;
 &lt;ul&gt;
@@ -179,7 +264,7 @@
 &lt;li&gt;这份情感通过表演传递给我们&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;AI可以模拟眼泪，但无法模拟&amp;quot;为什么会流泪&amp;quot;。&lt;/p&gt;
-&lt;h2 id="ai演员的真正威胁"&gt;AI演员的真正威胁&lt;/h2&gt;
+&lt;h2 id=&#34;ai演员的真正威胁&#34;&gt;AI演员的真正威胁&lt;/h2&gt;
 &lt;p&gt;我认为AI演员最大的威胁不是&amp;quot;取代演员&amp;quot;，而是&lt;strong&gt;让整个行业变得更加工业化、流水线化&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;当AI可以批量生成&amp;quot;及格线&amp;quot;以上的表演时：&lt;/p&gt;
 &lt;ul&gt;
@@ -188,7 +273,7 @@
 &lt;li&gt;只有顶层演员的&amp;quot;灵魂表演&amp;quot;才能站稳脚跟&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;这和程序员行业很像——AI可以写代码，但很难写出&amp;quot;优雅的架构&amp;quot;。&lt;/p&gt;
-&lt;h2 id="我的判断"&gt;我的判断&lt;/h2&gt;
+&lt;h2 id=&#34;我的判断&#34;&gt;我的判断&lt;/h2&gt;
 &lt;p&gt;AI演员不会完全取代人类演员，但会：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;改变行业标准&lt;/strong&gt;：观众对表演的要求会更高&lt;/li&gt;
@@ -198,15 +283,22 @@
 &lt;p&gt;技术从来不是中立的，它放大的是使用者的意图。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关键问题是：我们想用AI讲什么样的故事？&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;你怎么看AI演员？欢迎在评论区讨论。&lt;/em&gt;&lt;/p&gt;</description></item><item><title>关于我</title><link>https://normanou.github.io/blog/about/</link><pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate><guid>https://normanou.github.io/blog/about/</guid><description>&lt;h2 id="你好我是-norman-"&gt;你好，我是 Norman 👋&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;你怎么看AI演员？欢迎在评论区讨论。&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>https://normanou.github.io/blog/about/</link>
+      <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/about/</guid>
+      <description>&lt;h2 id=&#34;你好我是-norman-&#34;&gt;你好，我是 Norman 👋&lt;/h2&gt;
 &lt;p&gt;一个对世界充满好奇的程序员。&lt;/p&gt;
-&lt;h3 id="我是谁"&gt;我是谁&lt;/h3&gt;
+&lt;h3 id=&#34;我是谁&#34;&gt;我是谁&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;🧑‍💻 &lt;strong&gt;程序员&lt;/strong&gt;：写过代码，创过业，现在专注于做有意思的事情&lt;/li&gt;
 &lt;li&gt;🧠 &lt;strong&gt;心理咨询学习者&lt;/strong&gt;：正在系统学习心理咨询，探索人类内心的奥秘&lt;/li&gt;
 &lt;li&gt;🌍 &lt;strong&gt;终身探索者&lt;/strong&gt;：对AI、科技、商业、国际政治都有浓厚兴趣&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="这个博客"&gt;这个博客&lt;/h3&gt;
+&lt;h3 id=&#34;这个博客&#34;&gt;这个博客&lt;/h3&gt;
 &lt;p&gt;这是一个&lt;strong&gt;数字花园&lt;/strong&gt;，记录我的思考、学习和观察。&lt;/p&gt;
 &lt;p&gt;内容分类：&lt;/p&gt;
 &lt;ul&gt;
@@ -215,10 +307,13 @@
 &lt;li&gt;&lt;strong&gt;商业观察&lt;/strong&gt;：对商业模式和行业趋势的分析&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;生活随想&lt;/strong&gt;：日常生活中的碎碎念&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="联系我"&gt;联系我&lt;/h3&gt;
+&lt;h3 id=&#34;联系我&#34;&gt;联系我&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;GitHub: &lt;a href="https://github.com/norman"&gt;norman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Email: &lt;a href="mailto:norman@example.com"&gt;norman@example.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/norman&#34;&gt;norman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:norman@example.com&#34;&gt;norman@example.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;这个博客由 &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; 强力驱动&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;em&gt;这个博客由 &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; 强力驱动&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
