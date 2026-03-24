@@ -1,24 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>AI on Norman 的数字花园</title>
-    <link>https://normanou.github.io/blog/tags/ai/</link>
-    <description>Recent content in AI on Norman 的数字花园</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Mar 2026 22:50:00 +0800</lastBuildDate>
-    <atom:link href="https://normanou.github.io/blog/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI演员遭抵制，我们到底在害怕什么？</title>
-      <link>https://normanou.github.io/blog/ai/ai-actor-controversy/</link>
-      <pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/ai/ai-actor-controversy/</guid>
-      <description>&lt;p&gt;最近，&amp;ldquo;AI演员&amp;quot;的话题在抖音上引发热议，热度高达900多万。很多人在问：AI到底能不能取代演员？&lt;/p&gt;
-&lt;h2 id=&#34;一个程序员视角的思考&#34;&gt;一个程序员视角的思考&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI on Norman 的数字花园</title><link>https://normanou.github.io/blog/tags/ai/</link><description>Recent content in AI on Norman 的数字花园</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 22 Mar 2026 22:50:00 +0800</lastBuildDate><atom:link href="https://normanou.github.io/blog/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>AI演员遭抵制，我们到底在害怕什么？</title><link>https://normanou.github.io/blog/ai/ai-actor-controversy/</link><pubDate>Sun, 22 Mar 2026 22:50:00 +0800</pubDate><guid>https://normanou.github.io/blog/ai/ai-actor-controversy/</guid><description>&lt;p&gt;最近，&amp;ldquo;AI演员&amp;quot;的话题在抖音上引发热议，热度高达900多万。很多人在问：AI到底能不能取代演员？&lt;/p&gt;
+&lt;h2 id="一个程序员视角的思考"&gt;一个程序员视角的思考&lt;/h2&gt;
 &lt;p&gt;作为一个程序员，我对AI的态度一直是：&lt;strong&gt;拥抱变化，但保持警惕。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AI能演戏吗？技术上已经可以了。深度伪造（Deepfake）技术已经能把一个人的脸&amp;quot;贴&amp;quot;到另一个人的身上，甚至可以生成完全虚拟的数字人。从技术角度看，AI演员不是&amp;quot;能不能&amp;quot;的问题，而是&amp;quot;什么时候&amp;quot;的问题。&lt;/p&gt;
 &lt;p&gt;但为什么这么多人抵制？&lt;/p&gt;
-&lt;h2 id=&#34;我们害怕的不是技术是虚假&#34;&gt;我们害怕的不是技术，是&amp;quot;虚假&amp;rdquo;&lt;/h2&gt;
+&lt;h2 id="我们害怕的不是技术是虚假"&gt;我们害怕的不是技术，是&amp;quot;虚假&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;人类对&amp;quot;真实&amp;quot;有近乎执念的追求。我们看电影，表面上是在看故事，实际上是在感受&lt;strong&gt;另一个真实的人的情感表达&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;一个演员哭了，我们被打动，是因为我们知道：&lt;/p&gt;
 &lt;ul&gt;
@@ -27,7 +12,7 @@
 &lt;li&gt;这份情感通过表演传递给我们&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;AI可以模拟眼泪，但无法模拟&amp;quot;为什么会流泪&amp;quot;。&lt;/p&gt;
-&lt;h2 id=&#34;ai演员的真正威胁&#34;&gt;AI演员的真正威胁&lt;/h2&gt;
+&lt;h2 id="ai演员的真正威胁"&gt;AI演员的真正威胁&lt;/h2&gt;
 &lt;p&gt;我认为AI演员最大的威胁不是&amp;quot;取代演员&amp;quot;，而是&lt;strong&gt;让整个行业变得更加工业化、流水线化&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;当AI可以批量生成&amp;quot;及格线&amp;quot;以上的表演时：&lt;/p&gt;
 &lt;ul&gt;
@@ -36,7 +21,7 @@
 &lt;li&gt;只有顶层演员的&amp;quot;灵魂表演&amp;quot;才能站稳脚跟&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;这和程序员行业很像——AI可以写代码，但很难写出&amp;quot;优雅的架构&amp;quot;。&lt;/p&gt;
-&lt;h2 id=&#34;我的判断&#34;&gt;我的判断&lt;/h2&gt;
+&lt;h2 id="我的判断"&gt;我的判断&lt;/h2&gt;
 &lt;p&gt;AI演员不会完全取代人类演员，但会：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;改变行业标准&lt;/strong&gt;：观众对表演的要求会更高&lt;/li&gt;
@@ -46,7 +31,4 @@
 &lt;p&gt;技术从来不是中立的，它放大的是使用者的意图。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;关键问题是：我们想用AI讲什么样的故事？&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;你怎么看AI演员？欢迎在评论区讨论。&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;&lt;em&gt;你怎么看AI演员？欢迎在评论区讨论。&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
