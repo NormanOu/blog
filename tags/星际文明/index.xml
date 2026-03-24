@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>星际文明 on Norman 的数字花园</title>
+    <link>http://localhost:1313/blog/tags/%E6%98%9F%E9%99%85%E6%96%87%E6%98%8E/</link>
+    <description>Recent content in 星际文明 on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Mar 2026 08:35:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/%E6%98%9F%E9%99%85%E6%96%87%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>马斯克的星际野心：1太瓦算力工厂背后，是人类的星际文明梦</title>
+      <link>http://localhost:1313/blog/posts/musk-terafab-interstellar-civilization/</link>
+      <pubDate>Mon, 23 Mar 2026 08:35:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/posts/musk-terafab-interstellar-civilization/</guid>
+      <description>&lt;h2 id=&#34;一个太瓦是什么概念&#34;&gt;一个太瓦是什么概念？&lt;/h2&gt;
+&lt;p&gt;马斯克又做了一件&amp;quot;不可能&amp;quot;的事。&lt;/p&gt;
+&lt;p&gt;这次不是火箭，不是电动车，而是——&lt;strong&gt;芯片&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;2026年3月22日，马斯克宣布在德州奥斯汀建设TERAFAB工厂，目标年产&lt;strong&gt;1太瓦（1万亿瓦）算力&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这是什么概念？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;相当于&lt;strong&gt;50个三峡大坝&lt;/strong&gt;的总发电量&lt;/li&gt;
+&lt;li&gt;超过&lt;strong&gt;目前全球所有芯片制造商总产能&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;能为&lt;strong&gt;10亿台人形机器人&lt;/strong&gt;提供芯片&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但最疯狂的不是这个数字，而是他的终极目标：&lt;strong&gt;让人类从I型文明迈向II型文明&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;为什么马斯克要造芯片&#34;&gt;为什么马斯克要造芯片？&lt;/h2&gt;
+&lt;p&gt;你可能觉得，马斯克造车、造火箭、搞AI，现在又造芯片，是不是太贪心了？&lt;/p&gt;
+&lt;p&gt;其实不是贪心，而是&lt;strong&gt;不得不做&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;算力缺口地球满足不了马斯克的野心&#34;&gt;算力缺口：地球满足不了马斯克的野心&lt;/h3&gt;
+&lt;p&gt;目前全球AI计算年产能约&lt;strong&gt;20GW&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;马斯克需要多少？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimus机器人：&lt;strong&gt;100-200GW&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;太空AI卫星：&lt;strong&gt;1000GW（1太瓦）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;也就是说，他需要的算力是&lt;strong&gt;目前全球产能的50倍&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这就是TERAFAB存在的意义。&lt;/p&gt;
+&lt;h3 id=&#34;芯片制造的不可能三角&#34;&gt;芯片制造的&amp;quot;不可能三角&amp;quot;&lt;/h3&gt;
+&lt;p&gt;传统芯片制造有个不可能三角：&lt;strong&gt;逻辑芯片、存储芯片、封装测试&lt;/strong&gt;——通常需要不同的工厂完成。&lt;/p&gt;
+&lt;p&gt;马斯克要做的，是在&lt;strong&gt;同一座建筑内&lt;/strong&gt;完成所有环节：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;设计 → 掩模版制作 → 晶圆制造 → 封装测试 → 优化设计 → 循环
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这意味着什么？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;极速迭代&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当别人还在等待代工厂的排期时，马斯克已经完成了10次迭代优化。&lt;/p&gt;
+&lt;h2 id=&#34;80算力去太空马斯克的算盘&#34;&gt;80%算力去太空？马斯克的算盘&lt;/h2&gt;
+&lt;p&gt;TERAFAB的芯片，&lt;strong&gt;80%将用于太空，20%用于地面&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;为什么要把算力送上天？&lt;/p&gt;
+&lt;h3 id=&#34;太空的优势永远有阳光&#34;&gt;太空的优势：永远有阳光&lt;/h3&gt;
+&lt;p&gt;在地球上，太阳能受限于：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;昼夜交替&lt;/li&gt;
+&lt;li&gt;天气变化&lt;/li&gt;
+&lt;li&gt;季节差异&lt;/li&gt;
+&lt;li&gt;地理位置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在太空中？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;24小时阳光直射&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;没有大气衰减&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5倍以上的发电效率&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;马斯克说：&lt;strong&gt;&amp;ldquo;可能只需两三年，将AI芯片送入太空的成本就会低于地面部署。&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;规模经济的降维打击&#34;&gt;规模经济的降维打击&lt;/h3&gt;
+&lt;p&gt;在地球上：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;增加电力 → 土地不足 → 邻避效应 → 成本越来越高
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;在太空中：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;增加电力 → 发射更多卫星 → 规模经济 → 成本越来越低
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这就是马斯克选择太空的逻辑。&lt;/p&gt;
+&lt;h2 id=&#34;从地球文明到星际文明&#34;&gt;从地球文明到星际文明&lt;/h2&gt;
+&lt;p&gt;这才是最疯狂的部分。&lt;/p&gt;
+&lt;p&gt;马斯克的目标不是赚钱，而是&lt;strong&gt;让人类成为多星球物种&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;卡尔达舍夫文明等级&#34;&gt;卡尔达舍夫文明等级&lt;/h3&gt;
+&lt;p&gt;苏联天文学家卡尔达舍夫在1964年提出文明等级：&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
