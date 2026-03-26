@@ -2,31 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://normanou.github.io/blog/ai/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/categories/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/tags/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/tags/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/categories/%E5%81%A5%E5%BA%B7%E7%A7%91%E6%99%AE/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/tags/%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/tags/%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/ai/sleep-sudden-death-truth/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/tags/%E7%8C%9D%E6%AD%BB/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
+    <loc>https://normanou.github.io/blog/tags/%E7%9D%A1%E7%9C%A0/</loc>
+    <lastmod>2026-03-26T09:15:00+08:00</lastmod>
+  </url><url>
     <loc>https://normanou.github.io/blog/ai/expert-prompt-hallucination/</loc>
     <lastmod>2026-03-25T19:50:00+08:00</lastmod>
   </url><url>
     <loc>https://normanou.github.io/blog/categories/ai/</loc>
     <lastmod>2026-03-25T19:50:00+08:00</lastmod>
   </url><url>
-    <loc>https://normanou.github.io/blog/ai/</loc>
-    <lastmod>2026-03-25T19:50:00+08:00</lastmod>
-  </url><url>
     <loc>https://normanou.github.io/blog/tags/ai%E5%B9%BB%E8%A7%89/</loc>
-    <lastmod>2026-03-25T19:50:00+08:00</lastmod>
-  </url><url>
-    <loc>https://normanou.github.io/blog/categories/</loc>
     <lastmod>2026-03-25T19:50:00+08:00</lastmod>
   </url><url>
     <loc>https://normanou.github.io/blog/tags/llm/</loc>
     <lastmod>2026-03-25T19:50:00+08:00</lastmod>
   </url><url>
-    <loc>https://normanou.github.io/blog/</loc>
-    <lastmod>2026-03-25T19:50:00+08:00</lastmod>
-  </url><url>
     <loc>https://normanou.github.io/blog/tags/prism/</loc>
-    <lastmod>2026-03-25T19:50:00+08:00</lastmod>
-  </url><url>
-    <loc>https://normanou.github.io/blog/tags/</loc>
     <lastmod>2026-03-25T19:50:00+08:00</lastmod>
   </url><url>
     <loc>https://normanou.github.io/blog/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B/</loc>
@@ -95,9 +116,6 @@
     <loc>https://normanou.github.io/blog/tags/%E4%BB%A3%E8%B0%A2/</loc>
     <lastmod>2026-03-24T19:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://normanou.github.io/blog/tags/%E5%81%A5%E5%BA%B7/</loc>
-    <lastmod>2026-03-24T19:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://normanou.github.io/blog/tags/%E5%87%8F%E8%82%A5/</loc>
     <lastmod>2026-03-24T19:00:00+08:00</lastmod>
   </url><url>
@@ -108,9 +126,6 @@
     <lastmod>2026-03-24T19:00:00+08:00</lastmod>
   </url><url>
     <loc>https://normanou.github.io/blog/tags/%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF/</loc>
-    <lastmod>2026-03-24T19:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://normanou.github.io/blog/tags/%E7%9D%A1%E7%9C%A0/</loc>
     <lastmod>2026-03-24T19:00:00+08:00</lastmod>
   </url><url>
     <loc>https://normanou.github.io/blog/posts/12-platforms-interviewed/</loc>
@@ -222,9 +237,6 @@
     <lastmod>2026-03-23T09:55:00+08:00</lastmod>
   </url><url>
     <loc>https://normanou.github.io/blog/categories/%E5%BF%83%E7%90%86%E4%B8%8E%E6%88%90%E9%95%BF/</loc>
-    <lastmod>2026-03-23T09:55:00+08:00</lastmod>
-  </url><url>
-    <loc>https://normanou.github.io/blog/tags/%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2/</loc>
     <lastmod>2026-03-23T09:55:00+08:00</lastmod>
   </url><url>
     <loc>https://normanou.github.io/blog/tags/%E6%83%85%E7%BB%AA%E7%AE%A1%E7%90%86/</loc>
