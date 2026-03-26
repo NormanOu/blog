@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Norman 的数字花园</title>
+    <link>https://normanou.github.io/blog/categories/ai/</link>
+    <description>Recent content in AI on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 25 Mar 2026 19:50:00 +0800</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;你是专家&#34;竟是AI幻觉毒药？这个提示词骗局骗了AI圈一整年</title>
+      <link>https://normanou.github.io/blog/ai/expert-prompt-hallucination/</link>
+      <pubDate>Wed, 25 Mar 2026 19:50:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/ai/expert-prompt-hallucination/</guid>
+      <description>最新论文证实：让AI扮演专家会持续降低模型准确率。过去一年最火的提示词技巧，可能从一开始就错了。</description>
+    </item>
+    <item>
+      <title>Sora关停：史上最贵AI表情包生成器的七个月生死</title>
+      <link>https://normanou.github.io/blog/ai/sora-shutdown-analysis/</link>
+      <pubDate>Wed, 25 Mar 2026 18:45:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/ai/sora-shutdown-analysis/</guid>
+      <description>OpenAI宣布Sora全面停运。这个曾让全网狂欢的AI视频平台，只撑了七个月。它的失败，藏着AI行业最残酷的真相。</description>
+    </item>
+  </channel>
+</rss>
