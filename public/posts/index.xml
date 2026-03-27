@@ -2,80 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Norman 的数字花园</title>
-    <link>https://normanou.github.io/blog/posts/</link>
+    <link>http://localhost:1313/blog/posts/</link>
     <description>Recent content in Posts on Norman 的数字花园</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 24 Mar 2026 21:00:00 +0800</lastBuildDate>
-    <atom:link href="https://normanou.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>成品油价格临时调控：当全球能源危机来袭，中国的&#39;底牌&#39;是什么？</title>
-      <link>https://normanou.github.io/blog/posts/oil-price-control-energy-strategy/</link>
-      <pubDate>Tue, 24 Mar 2026 21:00:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/oil-price-control-energy-strategy/</guid>
-      <description>国家对成品油价格采取临时调控，全国平均每升少涨0.85元。这个决定背后，是中东局势动荡、霍尔木兹海峡危机、全球能源供应链断裂。中国为什么能从容应对？多年布局的能源战略，正在发挥作用。</description>
-    </item>
-    <item>
-      <title>12家平台被约谈：当互联网&#39;内卷&#39;变成&#39;作恶&#39;，谁在为流量买单？</title>
-      <link>https://normanou.github.io/blog/posts/platform-interviewed-anticompetitive/</link>
-      <pubDate>Tue, 24 Mar 2026 20:00:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/platform-interviewed-anticompetitive/</guid>
-      <description>携程、京东、抖音等12家平台被约谈，集中通报&amp;#39;内卷式&amp;#39;竞争问题。美团删除用户照片、淘宝闪购擅自改价、携程自动跟价...这些行为背后，是平台经济的什么深层问题？</description>
-    </item>
-    <item>
-      <title>开灯睡觉胖到200斤？这个被忽视的睡眠习惯，正在悄悄毁掉你的代谢</title>
-      <link>https://normanou.github.io/blog/posts/sleep-with-lights-on-weight-gain/</link>
-      <pubDate>Tue, 24 Mar 2026 19:00:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/sleep-with-lights-on-weight-gain/</guid>
-      <description>20岁女生长期开灯睡觉胖到200斤的新闻刷爆热搜。这背后的科学原理是什么？光线如何影响我们的代谢和体重？本文从睡眠科学角度，为你揭示开灯睡觉的真实危害。</description>
-    </item>
-    <item>
-      <title>12家企业被约谈：美团、携程、抖音在内，平台&#39;内卷式&#39;竞争何时休？</title>
-      <link>https://normanou.github.io/blog/posts/12-platforms-interviewed/</link>
-      <pubDate>Tue, 24 Mar 2026 10:00:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/12-platforms-interviewed/</guid>
-      <description>北京市监局约谈携程、美团、京东、抖音等12家企业，通报平台内卷式竞争问题：侵害商家自主经营权、设置不合理规则、虚假宣传。这对商家和消费者意味着什么？</description>
-    </item>
+    <lastBuildDate>Tue, 24 Mar 2026 09:35:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI终于有记忆了：99%准确率刷爆SOTA，程序员的AI助手将迎来质变</title>
-      <link>https://normanou.github.io/blog/posts/ai-gets-permanent-memory/</link>
+      <link>http://localhost:1313/blog/posts/ai-gets-permanent-memory/</link>
       <pubDate>Tue, 24 Mar 2026 09:35:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/ai-gets-permanent-memory/</guid>
+      <guid>http://localhost:1313/blog/posts/ai-gets-permanent-memory/</guid>
       <description>Supermemory团队推出ASMR系统，在AI最难记忆考试中达到99%准确率。抛弃传统向量数据库，采用多Agent并行推理，AI终于不再失忆。对程序员意味着什么？</description>
     </item>
     <item>
       <title>班主任退群：当家校沟通变成&#39;信息过载&#39;，出路在哪？</title>
-      <link>https://normanou.github.io/blog/posts/class-teacher-wechat-group-exit/</link>
+      <link>http://localhost:1313/blog/posts/class-teacher-wechat-group-exit/</link>
       <pubDate>Mon, 23 Mar 2026 10:05:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/class-teacher-wechat-group-exit/</guid>
+      <guid>http://localhost:1313/blog/posts/class-teacher-wechat-group-exit/</guid>
       <description>2026年多地试点班主任退群，改由学校行政和家委会管理。从程序员视角（系统设计）和心理咨询角度（家庭关系），深度分析微信群如何绑架了教育，以及重建家校边界的出路。</description>
     </item>
     <item>
       <title>22点睡 vs 23点睡：这1小时差距，比你想象的更大</title>
-      <link>https://normanou.github.io/blog/posts/10pm-vs-11pm-sleep/</link>
+      <link>http://localhost:1313/blog/posts/10pm-vs-11pm-sleep/</link>
       <pubDate>Mon, 23 Mar 2026 09:55:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/10pm-vs-11pm-sleep/</guid>
+      <guid>http://localhost:1313/blog/posts/10pm-vs-11pm-sleep/</guid>
       <description>22点睡vs23点睡，表面差1小时，实际差20%深度睡眠、15%生长激素、20%情绪调节能力。从心理咨询视角和程序员健康角度，深度解析睡眠的生理机制和心理影响，附自我实验数据。</description>
     </item>
     <item>
       <title>中国车企全球销量首次超越日本：这个历史性时刻意味着什么？</title>
-      <link>https://normanou.github.io/blog/posts/china-automakers-overtake-japan/</link>
+      <link>http://localhost:1313/blog/posts/china-automakers-overtake-japan/</link>
       <pubDate>Mon, 23 Mar 2026 09:45:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/china-automakers-overtake-japan/</guid>
+      <guid>http://localhost:1313/blog/posts/china-automakers-overtake-japan/</guid>
       <description>2026年中国车企全球销量2700万辆，首次超越日本。比亚迪超越福特全球第6，吉利超越本田全球第8。从程序员视角和创业经历，深度分析中国车企崛起的技术优势、供应链闭环和市场驱动。</description>
     </item>
     <item>
       <title>OpenAI急招3500人：当AI巨头开始&#39;军备竞赛&#39;，我们看到了什么？</title>
-      <link>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</link>
+      <link>http://localhost:1313/blog/posts/openai-hiring-3500-counterattack/</link>
       <pubDate>Mon, 23 Mar 2026 09:35:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/openai-hiring-3500-counterattack/</guid>
+      <guid>http://localhost:1313/blog/posts/openai-hiring-3500-counterattack/</guid>
       <description>OpenAI宣布急招3500人，年人力成本75亿人民币。背后是Anthropic的Claude、Google的Gemini、Meta的Llama、中国AI玩家的四大威胁。从程序员和创业者视角，深度分析AI巨头的人才战争。</description>
     </item>
     <item>
       <title>马斯克的星际野心：1太瓦算力工厂背后，是人类的星际文明梦</title>
-      <link>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</link>
+      <link>http://localhost:1313/blog/posts/musk-terafab-interstellar-civilization/</link>
       <pubDate>Mon, 23 Mar 2026 08:35:00 +0800</pubDate>
-      <guid>https://normanou.github.io/blog/posts/musk-terafab-interstellar-civilization/</guid>
+      <guid>http://localhost:1313/blog/posts/musk-terafab-interstellar-civilization/</guid>
       <description>马斯克宣布建设TERAFAB工厂，年产1太瓦算力，相当于50个三峡大坝。这不仅是芯片工厂，更是人类迈向星际文明的基础设施。从程序员视角和心理咨询角度，深度解读马斯克的星际野心。</description>
     </item>
   </channel>
