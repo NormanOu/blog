@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>压缩算法 | Norman 的数字花园</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="https://normanou.github.io/blog/tags/%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95/">
+<link crossorigin="anonymous" href="/blog/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://normanou.github.io/blog/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://normanou.github.io/blog/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://normanou.github.io/blog/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://normanou.github.io/blog/apple-touch-icon.png">
+<link rel="mask-icon" href="https://normanou.github.io/blog/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://normanou.github.io/blog/tags/%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="https://normanou.github.io/blog/tags/%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><meta property="og:url" content="https://normanou.github.io/blog/tags/%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95/">
+  <meta property="og:site_name" content="Norman 的数字花园">
+  <meta property="og:title" content="压缩算法">
+  <meta property="og:locale" content="zh_cn">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="压缩算法">
+
+</head>
+<body class="list" id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://normanou.github.io/blog/" accesskey="h" title="Norman 的数字花园 (Alt + H)">Norman 的数字花园</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://normanou.github.io/blog/ai/" title="AI 与科技">
+                    <span>AI 与科技</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://normanou.github.io/blog/psychology/" title="心理与成长">
+                    <span>心理与成长</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://normanou.github.io/blog/business/" title="商业观察">
+                    <span>商业观察</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://normanou.github.io/blog/life/" title="生活随想">
+                    <span>生活随想</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://normanou.github.io/blog/archives/" title="归档">
+                    <span>归档</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<header class="page-header"><div class="breadcrumbs"><a href="https://normanou.github.io/blog/">Home</a>&nbsp;»&nbsp;<a href="https://normanou.github.io/blog/tags/">Tags</a></div>
+  <h1>
+    压缩算法
+  </h1>
+</header>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">谷歌一篇论文，存储芯片天塌了：AI内存需求暴降6倍
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>一篇论文，万亿市值蒸发 谁也没想到，本周三美股开盘，存储芯片板块遭遇&#34;黑色时刻&#34;。
+美光科技下跌4%，西部数据下跌4.4%，希捷下跌5.6%，闪迪更是重挫6.5%。
+引发这场抛售地震的导火索，正是谷歌发布的TurboQuant压缩算法。
+Cloudflare首席执行官Matthew Prince甚至将其形容为：“谷歌的DeepSeek时刻”。
+大模型的吞金兽：KV缓存 要理解TurboQuant的分量，先得搞清楚它瞄准的靶心——KV缓存到底有多吃内存。
+大模型生成每一个Token时，都要&#34;回看&#34;之前所有Token的信息。为了避免重复计算，模型把每一层注意力机制产出的Key和Value向量全部缓存起来。
+问题在于，这张&#34;速查表&#34;随对话长度线性膨胀。
+当上下文从4K扩展到128K甚至百万级别，KV缓存吞掉的显存往往反超模型参数本身，成为推理阶段最大的内存瓶颈。
+传统解法是向量量化——把16-bit浮点数压缩成4-bit整数。但几乎所有传统方法都需要为每一小块数据额外存储一组全精度的量化常数，每个数字多吃1到2个bit。
+压到4-bit，实际可能是5到6-bit。压缩的意义被自己的&#34;手续费&#34;蚕食了一大截。
+而TurboQuant的野心，正是彻底消灭这笔附加费。
+两步绝杀：极坐标变换 &#43; 1-bit误差校验 TurboQuant的核心，是一个精巧的两阶段流程。
+第一阶段：PolarQuant换一个坐标系看世界 传统量化在笛卡尔坐标系（X、Y、Z轴）下操作，每个轴的取值范围不固定，必须额外存储归一化参数。
+PolarQuant的第一步，是对数据向量做一次随机旋转。
+这一步看似随意，背后的数学意义却很深：在高维空间里，随机旋转会让向量的每个坐标分量收敛到一种高度集中的Beta分布，而且各分量之间近似独立同分布。
+不管原始数据长什么样，转完之后，统统变成&#34;一个模子刻出来的&#34;。
+这让复杂的高维量化问题，降格为一组简单的一维标量量化问题。
+然后，PolarQuant把旋转后的向量转换成极坐标系：
+传统方法：向东走3个街区，再向北走4个街区 PolarQuant：朝37度方向直接走5个街区 转换之后，数据被拆成两组信息：半径（信号强度）&#43; 角度（信号方向）。
+接下来是真正精妙的一步——递归配对。把坐标两两分组做极坐标变换，得到半径和角度；再把半径两两配对，做第二轮变换……最终整个高维向量被浓缩为一个最终半径和一系列描述性角度。
+因为角度的分布模式在数学上是已知且高度集中的，整个过程不需要存储任何归一化常数。
+开销，归零。
+第二阶段：QJL用1-bit消灭残余误差 再精准的压缩，也会留下误差。
+而且这里有个隐蔽的陷阱：一个在MSE意义上最优的1-bit量化器，在高维空间中会引入一个2/π的乘性偏差。
+也就是说，你把数据压得很小、失真也很低，但用它算内积（注意力分数的核心操作）时，结果是系统性偏斜的。
+TurboQuant的第二步，专门来&#34;杀&#34;这个偏差。
+它将Johnson-Lindenstrauss变换应用到第一阶段的残余误差上，把每个误差值压缩为一个符号位：&#43;1或-1。
+配合一个特殊的估计器——用高精度的Query向量和低精度的压缩Key做联合计算。
+这套组合拳，在数学上被证明是**“无偏”**的：压缩前后的内积期望值严格相等。
+只消耗最后1个bit，就把第一阶段残留的系统性偏差彻底抹平。
+效果有多炸裂？ 3-bit总预算，实现接近无损压缩，全程零额外开销。
+在H100上，4-bit TurboQuant计算注意力logits的速度，相比32-bit基线提升了8倍。
+谷歌在五大长上下文基准测试（LongBench、Needle In A Haystack、ZeroSCROLLS、RULER、L-EVal）上进行了严格验证，测试模型覆盖Gema、Mistral和Llama-3.1-8B-Instruct。
+最残酷的考验来自&#34;大海捞针&#34;——在10万Token的文本海洋里，精准捞出一句特定信息：
+4倍压缩比下，检索精度一路保持到10.4万Token，与全精度模型完全一致 6倍压缩之后，模型该记住的，一个字都没丢 一时间，全网陷入疯狂。照这样说，16GB Mac mini又能用来跑大模型了。
+独立开发者在Reddit上晒出了复现成果：基于PyTorch和自定义Triton kernel，在RTX 4090上用2-bit精度跑Gemma 3 4B，输出与未压缩版本逐字符一致。
+论文写的&#34;零损耗&#34;，社区用代码投了票。
+存储芯片的天真的塌了吗？ 对于芯片存储巨头来说，这无异于一场&#34;底层逻辑大地震&#34;。
+美光、西数等巨头的估值基石，向来建立在&#34;AI服务器单机容量红利&#34;之上。
+一旦单次推理任务的比特需求发生结构性骤降，高性能存储的增长动能将直接面临&#34;缩水&#34;危机。
+但存储芯片的天，大概率没有塌。
+科技行业有一条反复被验证的铁律——杰文斯悖论：资源使用效率越高，总消耗量反而越大。
+KV缓存压缩6倍，最可能的结果不是少买内存，而是同样的显存跑更长的上下文、更多的并发、更大的模型。
+虽然压缩算法还从未从根本上改变过采购量，但有两件事确实在发生改变：
+第一，推理成本的地板价被改写了 TurboQuant的三篇论文将在ICLR 2026和AISTATS 2026上公开发表，核心思想向全行业敞开。
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2026-03-27 00:00:00 +0000 UTC'>March 27, 2026</span>&nbsp;·&nbsp;<span>1 min</span></footer>
+  <a class="entry-link" aria-label="post link to 谷歌一篇论文，存储芯片天塌了：AI内存需求暴降6倍" href="https://normanou.github.io/blog/ai/google-turboquant-chip-crash/"></a>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="https://normanou.github.io/blog/">Norman 的数字花园</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Siri on Norman 的数字花园</title>
+    <link>https://normanou.github.io/blog/tags/siri/</link>
+    <description>Recent content in Siri on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Mar 2026 09:45:00 +0800</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/tags/siri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>苹果终于认输了？Siri大变身，这次真的要变成ChatGPT</title>
+      <link>https://normanou.github.io/blog/ai/apple-siri-campo-wwdc2026/</link>
+      <pubDate>Thu, 26 Mar 2026 09:45:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/ai/apple-siri-campo-wwdc2026/</guid>
+      <description>苹果官宣WWDC 2026定档6月9日，新版Siri代号Campo，将采用类似ChatGPT的聊天界面，由Apple Foundation Models与Google Gemini共同驱动。这是苹果在AI赛道的关键一仗。</description>
+    </item>
+  </channel>
+</rss>

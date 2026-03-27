@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自动化 on Norman 的数字花园</title>
+    <link>https://normanou.github.io/blog/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+    <description>Recent content in 自动化 on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>40个AI代理，每月500美元，顶5万美元团队：前谷歌产品负责人的AI职场革命</title>
+      <link>https://normanou.github.io/blog/ai/40-ai-agents-replace-team/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://normanou.github.io/blog/ai/40-ai-agents-replace-team/</guid>
+      <description>Jacob Bank用40个AI代理完成了价值5万美元营销团队的工作。他的建议是：从简单开始，AI不是实习生而是教练，未来每个人都是&amp;#39;超级独立贡献者&amp;#39;。</description>
+    </item>
+  </channel>
+</rss>

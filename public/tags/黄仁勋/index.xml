@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>黄仁勋 on Norman 的数字花园</title>
+    <link>https://normanou.github.io/blog/tags/%E9%BB%84%E4%BB%81%E5%8B%8B/</link>
+    <description>Recent content in 黄仁勋 on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Mar 2026 10:15:00 +0800</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/tags/%E9%BB%84%E4%BB%81%E5%8B%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人民想念DeepSeek：Token太贵，谁来拯救&#39;虾民&#39;？</title>
+      <link>https://normanou.github.io/blog/ai/deepseek-token-price-war/</link>
+      <pubDate>Thu, 26 Mar 2026 10:15:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/ai/deepseek-token-price-war/</guid>
+      <description>黄仁勋在GTC大会上鼓吹Token消耗，OpenAI程序员一周烧掉2100亿Token。但Token太贵了，用户月均费用上千元。DeepSeek V4迟迟未来，人民想念Token价格战。</description>
+    </item>
+  </channel>
+</rss>

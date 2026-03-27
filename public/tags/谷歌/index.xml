@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>谷歌 on Norman 的数字花园</title>
+    <link>https://normanou.github.io/blog/tags/%E8%B0%B7%E6%AD%8C/</link>
+    <description>Recent content in 谷歌 on Norman 的数字花园</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://normanou.github.io/blog/tags/%E8%B0%B7%E6%AD%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>谷歌一篇论文，存储芯片天塌了：AI内存需求暴降6倍</title>
+      <link>https://normanou.github.io/blog/ai/google-turboquant-chip-crash/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://normanou.github.io/blog/ai/google-turboquant-chip-crash/</guid>
+      <description>TurboQuant算法把KV缓存压到3-bit，内存占用只有1/6，推理速度飙升8倍。美光、西数、希捷股价集体暴跌——谷歌的DeepSeek时刻来了。</description>
+    </item>
+  </channel>
+</rss>

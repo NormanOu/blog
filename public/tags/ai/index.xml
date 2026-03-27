@@ -6,8 +6,29 @@
     <description>Recent content in AI on Norman 的数字花园</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Mar 2026 22:50:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://normanou.github.io/blog/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>40个AI代理，每月500美元，顶5万美元团队：前谷歌产品负责人的AI职场革命</title>
+      <link>https://normanou.github.io/blog/ai/40-ai-agents-replace-team/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://normanou.github.io/blog/ai/40-ai-agents-replace-team/</guid>
+      <description>Jacob Bank用40个AI代理完成了价值5万美元营销团队的工作。他的建议是：从简单开始，AI不是实习生而是教练，未来每个人都是&amp;#39;超级独立贡献者&amp;#39;。</description>
+    </item>
+    <item>
+      <title>谷歌一篇论文，存储芯片天塌了：AI内存需求暴降6倍</title>
+      <link>https://normanou.github.io/blog/ai/google-turboquant-chip-crash/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://normanou.github.io/blog/ai/google-turboquant-chip-crash/</guid>
+      <description>TurboQuant算法把KV缓存压到3-bit，内存占用只有1/6，推理速度飙升8倍。美光、西数、希捷股价集体暴跌——谷歌的DeepSeek时刻来了。</description>
+    </item>
+    <item>
+      <title>苹果终于认输了？Siri大变身，这次真的要变成ChatGPT</title>
+      <link>https://normanou.github.io/blog/ai/apple-siri-campo-wwdc2026/</link>
+      <pubDate>Thu, 26 Mar 2026 09:45:00 +0800</pubDate>
+      <guid>https://normanou.github.io/blog/ai/apple-siri-campo-wwdc2026/</guid>
+      <description>苹果官宣WWDC 2026定档6月9日，新版Siri代号Campo，将采用类似ChatGPT的聊天界面，由Apple Foundation Models与Google Gemini共同驱动。这是苹果在AI赛道的关键一仗。</description>
+    </item>
     <item>
       <title>AI演员遭抵制，我们到底在害怕什么？</title>
       <link>https://normanou.github.io/blog/ai/ai-actor-controversy/</link>
